@@ -1,0 +1,10 @@
+
+cd ./ru
+./update-changes
+./make html
+
+cd ../en
+./update-changes
+./make html
+
+cd ..

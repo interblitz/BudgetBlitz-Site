@@ -1,0 +1,70 @@
+.customchip {
+
+	height:32px;
+	font-family:"Roboto","Helvetica","Arial",sans-serif;
+	line-height:32px;
+	padding:0 12px;
+	border:0;border-radius:16px;
+	background-color:#dedede;
+	display:inline-block;
+	color:rgba(0,0,0,.87);
+	margin:2px 0;
+	white-space:nowrap;
+
+	font-size: 13px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.configchip {
+
+	height:32px;
+	font-family:"Roboto","Helvetica","Arial",sans-serif;
+	line-height:32px;
+	padding:0 12px 0 0;
+	border:0;border-radius:16px;
+	background-color:#dedede;
+	display:inline-block;
+	color:rgba(0,0,0,.87);
+	margin:2px 0;
+	white-space:nowrap;
+
+	font-size: 13px;
+	vertical-align: middle;
+}
+
+.configchip:before {
+	height: 32px;
+	width: 32px;
+	border-radius: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 8px;
+	overflow: hidden;
+	text-align: center;
+	line-height: 32px;
+	background-color: rgba(158,158,158 ,1) !important;
+	color: rgb(255,255,255);
+
+	direction: ltr;
+	display: inline-block;
+	font-family: 'Material Icons';
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	letter-spacing: normal;
+	text-transform: none;
+	white-space: nowrap;
+	word-wrap: normal;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+
+  content: '\e5ca';
+}
+
+
+.example-fill-remaining-space {
+  // This fills the remaining space, by using flexbox.
+  // Every toolbar row uses a flexbox row layout.
+  flex: 1 1 auto;
+}
