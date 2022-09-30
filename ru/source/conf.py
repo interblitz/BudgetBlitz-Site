@@ -168,7 +168,7 @@ html_theme_options = {
         (u'Главная', 'index', False, ''),
         (u'Изменения', 'changes', False, ''),
         (u'Поддержите нас', 'support-us', False, ''),
-        (u'Руководство пользователя', 'https://interblitz.github.io/BudgetBlitz-Manual/en/build/html/index.html', True, ''),
+        (u'Руководство пользователя', 'https://interblitz.github.io/BudgetBlitz-Manual/ru/build/html/index.html', True, ''),
         (u'Помощь', 'http://qa.bbmoney.biz/ru', True, ''),
         (u'Конфиденциальность', 'privacy', False, '')
     ],
