@@ -17,6 +17,6 @@
    Изменения<changes>
    update-pro
    Поддержите нас<support-us>
-   Руководство пользователя <http://bbmoney.biz/ru/manual/index.html>
+   Руководство пользователя <https://interblitz.github.io/BudgetBlitz-Manual/ru/build/html/index.html>
    Помощь <http://qa.bbmoney.biz/ru>
    privacy

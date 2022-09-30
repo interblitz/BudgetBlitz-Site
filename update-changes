@@ -8,3 +8,6 @@ cd ../en
 ./make html
 
 cd ..
+
+git commit -m "Changes updated"
+git push origin master

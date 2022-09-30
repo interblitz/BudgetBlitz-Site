@@ -16,6 +16,6 @@
    Home<home>
    Changes<changes>
    Support us<support-us>
-   Manual <http://bbmoney.biz/en/manual/index.html>
+   Manual <https://interblitz.github.io/BudgetBlitz-Manual/en/build/html/index.html>
    Help <http://qa.bbmoney.biz/en>
    privacy
