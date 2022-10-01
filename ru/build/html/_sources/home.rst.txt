@@ -65,11 +65,11 @@
 
     Вы можете сформировать отчеты на любом устройстве, компьютере, ноутбуке, планшете. Причем без регистрации и доступа к сайту разработчика.
 
-  .. grid-item-card:: :material-regular:`help;3em;sd-text-success` ПОДДЕРЖКАё
+  .. grid-item-card:: :material-regular:`help;3em;sd-text-success` ПОДДЕРЖКА
 
     Вы можете задать любой вопрос на форуме или по электронной почте. Доступно руководство пользователя.
 
-    :bdg-link-primary-line:`4PDAt <https://4pda.to/forum/index.php?showtopic=658215/>`
+    :bdg-link-primary-line:`4PDA <https://4pda.to/forum/index.php?showtopic=658215/>`
 
 
 Скриншоты
