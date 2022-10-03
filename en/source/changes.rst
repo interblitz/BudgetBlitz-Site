@@ -9,15 +9,17 @@
 Changes history
 ===============
 
-Version 8.9.5b13
+Version 8.9.5b14
 -------------------
 
 1. Added filter for transactions count in the period of a report.
 2. Added setting for changing search interval for connected transactions.
 3. Added an option to disable animation for FAB.
 4. Improved foreign currency rates view in reports.
-5. Added events log options.
-6. Fixed bugs in Free and Pro versions.
+5. Improved Plan-Actual report.
+6. Improved amounts view for foreign exchange transactions.
+7. Added events log options.
+8. Fixed bugs in Free and Pro versions.
 
 Version 8.9.4
 -------------------

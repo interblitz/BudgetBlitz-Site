@@ -9,5 +9,6 @@ cd ../en
 
 cd ..
 
-#git commit -m "Changes updated"
-#git push origin master
+git add .
+git commit -m "Changes updated"
+git push origin master
