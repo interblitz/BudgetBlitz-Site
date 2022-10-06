@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 8.9.5b15
+Version 8.9.5b16
 -------------------
 
 1. Added filter for transactions count in the period of a report.
