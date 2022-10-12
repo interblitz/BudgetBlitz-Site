@@ -9,6 +9,7 @@
 .. put_var:: |var_paid_version_name| Pro
 .. put_var:: |var_paid_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en
 .. put_var:: |var_paid_version_store| `Visit store <https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en>`_
+.. put_var:: |var_bstore_name| BStore
 
 .. substitutions
 
@@ -23,3 +24,6 @@
 
 .. |translate_link| vars_replace:: Translate
 .. _translate_link: http://translate.bbmoney.biz/
+
+.. |bstore_link| vars_replace:: |var_bstore_name|
+.. _bstore_link: https://bstore.my.to:40431/download

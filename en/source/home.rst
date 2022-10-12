@@ -27,11 +27,7 @@ Budget Blitz for Android - money tracking and planning
 
     Pro version
 
-    .. vars_button-link:: |var_paid_version_url|
-        :color: primary
-        :shadow:
-
-        Buy on Google Play
+    :ref:`update_pro`
 
     Community version
 

@@ -15,6 +15,7 @@
 
    Home<home>
    Changes<changes>
+   update-pro
    Support us<support-us>
    Manual <https://interblitz.github.io/BudgetBlitz-Manual/en/build/html/index.html>
    Help <http://qa.bbmoney.biz/en>
