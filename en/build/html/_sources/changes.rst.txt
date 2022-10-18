@@ -9,6 +9,11 @@
 Changes history
 ===============
 
+Version 8.9.6b1
+-------------------
+
+1. Fixed bugs in Free and Pro versions.
+
 Version 8.9.5
 -------------------
 
