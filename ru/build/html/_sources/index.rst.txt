@@ -20,3 +20,4 @@
    Руководство пользователя <https://interblitz.github.io/BudgetBlitz-Manual/ru/build/html/index.html>
    Помощь <http://qa.bbmoney.biz/ru>
    privacy
+   contacts
