@@ -28,7 +28,13 @@
     Версия Pro
     
     :ref:`update_pro`
+    
+    .. vars_button-link:: |var_buy_pro_version_url_test|
+        :color: primary
+        :outline:
 
+        Купить	
+	
     Версия Community
 
     .. vars_button-link:: |var_free_version_url|
