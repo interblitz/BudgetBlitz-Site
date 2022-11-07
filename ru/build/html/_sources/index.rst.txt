@@ -21,3 +21,4 @@
    Помощь <http://qa.bbmoney.biz/ru>
    privacy
    contacts
+   order-terms
