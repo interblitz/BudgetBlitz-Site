@@ -6,10 +6,14 @@
 
 .. put_var:: |var_free_version_name| Community
 .. put_var:: |var_free_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetfree&hl=en
+
 .. put_var:: |var_paid_version_name| Pro
 .. put_var:: |var_paid_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en
 .. put_var:: |var_paid_version_store| `Перейти к магазин <https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en>`_
+.. put_var:: |var_paid_version_bstore| `Купить за 1890 руб. <https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru>`_
+
 .. put_var:: |var_bstore_name| BStore
+
 .. put_var:: |var_buy_pro_version_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru
 .. put_var:: |var_buy_pro_version_url_test| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru&debug=1
 

@@ -27,13 +27,12 @@
 
     Версия Pro
     
-    :ref:`update_pro`
-    
-    .. vars_button-link:: |var_buy_pro_version_url_test|
+    .. vars_button-link:: |var_buy_pro_version_url|
         :color: primary
-        :outline:
 
-        Купить за 1890 руб. (будет доступно в ближайшее время)	
+        Купить за 1890 руб.
+
+    :ref:`update_pro`
 	
     Версия Community
 
@@ -151,4 +150,4 @@
 
    * - Цена
      - Бесплатно
-     - |var_paid_version_store|
+     - |var_paid_version_bstore|
