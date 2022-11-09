@@ -1,11 +1,11 @@
 
-cd ./ru
+cd ./ru-s
 ./update-changes
-./make html
+#./make html
 
-cd ../en
+cd ../en-s
 ./update-changes
-./make html
+#./make html
 
 cd ..
 

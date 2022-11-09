@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 8.9.6b1
+Version 8.9.6b3
 -------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Improved push notifications import.
+2. Fixed bugs in Free and Pro versions.
 
 Version 8.9.5
 -------------------
