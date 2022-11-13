@@ -1,6 +1,6 @@
 # Budget Blitz Site
 
-Read online:
+Online:
 
 - [en](https://interblitz.github.io/BudgetBlitz-Site/en//index.html)
 - [ru](https://interblitz.github.io/BudgetBlitz-Site/ru/index.html)
