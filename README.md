@@ -2,6 +2,6 @@
 
 Read online:
 
-- [en](https://interblitz.github.io/BudgetBlitz-Site/en/build/html/index.html)
-- [ru](https://interblitz.github.io/BudgetBlitz-Site/ru/build/html/index.html)
+- [en](https://interblitz.github.io/BudgetBlitz-Site/en//index.html)
+- [ru](https://interblitz.github.io/BudgetBlitz-Site/ru/index.html)
 
