@@ -1,4 +1,9 @@
 .. include:: definitions.rst
+..  role:: strikethrough
+
+.. raw:: html
+
+  <script src="_static/store.js" defer></script>
 
 Блиц Бюджет for Android - учет и планирование финансов
 ======================================================
@@ -30,8 +35,12 @@
     .. vars_button-link:: |var_buy_pro_version_url|
         :color: primary
 
-        Купить за 1890 руб.
+        Купить за [price] |rur|
 
+    :strikethrough:`[normalPrice]` |rur| :bdg-danger:`-[discount]%` :bdg-success:`по [endPeriod]`
+    
+    :bdg-secondary:`Временно недоступно` :bdg-secondary:`[errorCode]`
+	
     :ref:`update_pro`
 	
     Версия Community
@@ -151,3 +160,4 @@
    * - Цена
      - Бесплатно
      - |var_paid_version_bstore|
+
