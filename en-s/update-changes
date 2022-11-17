@@ -9,4 +9,5 @@ cat ./source/changes-origin.rst ./source/changes > ./source/changes.rst
 rm ./source/changes-origin.rst 
 rm ./source/changes
 
-make html
+#make html
+./build-html
