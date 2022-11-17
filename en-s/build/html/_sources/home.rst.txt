@@ -1,4 +1,9 @@
 .. include:: definitions.rst
+..  role:: strikethrough
+
+.. raw:: html
+
+  <script src="_static/store.js" defer></script>
 
 Budget Blitz for Android - money tracking and planning
 ======================================================
@@ -26,6 +31,15 @@ Budget Blitz for Android - money tracking and planning
     :child-align: center
 
     Pro version
+    
+    .. vars_button-link:: |var_buy_pro_version_url|
+        :color: primary
+
+        Buy for [price] |rur|
+
+    :strikethrough:`[normalPrice]` |rur| :bdg-danger:`-[discount]%` :bdg-success:`till [endPeriod]`
+    
+    :bdg-secondary:`Temporarily unavailable` :bdg-secondary:`[errorCode]`
 
     :ref:`update_pro`
 
