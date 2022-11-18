@@ -1,20 +1,3 @@
-varsNormal = { 
-"[price]": 1890,
-"[normalPrice]": 1890,
-"[discount]": 0,
-"[endPeriod]": "15.11.2022"
-};
-
-varsDiscount = { 
-"[price]": 1499,
-"[normalPrice]": 1890,
-"[discount]": 20,
-"[endPeriod]": "15.11.2022"
-};
-
-//replace_vars(varsDiscount, "span");
-//replace_vars(varsDiscount, "a");
-
 apply_vars("biz.interblitz.budgetpro");
 
 function getParentElement(item){
@@ -52,7 +35,7 @@ function replace_vars(vars, tagName){
 
 function apply_vars(appId){
 
-	server = "http://192.168.144.112:5000"
+	server = "https://bstore.my.to:40431"
 	path = "/api/v1/app-order-terms?appId=" + appId + "&locale=ru"
 
 	// (1)

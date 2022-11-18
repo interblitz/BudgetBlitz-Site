@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 8.9.6b4
+Version 8.9.6
 -------------------
 
 1. Improved push notifications import.

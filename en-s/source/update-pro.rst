@@ -1,8 +1,8 @@
 .. include:: definitions.rst
 .. _update_pro:
 
-Updates without Google Play
-===========================
+Download and update without Google Play
+=======================================
 
 Actions for update
 ------------------
@@ -26,11 +26,22 @@ Questions
 ---------
 
 Question
+~~~~~~~~
 
 Where do I get the order number?
 
 Answer
+~~~~~~
 
 The order number should be in the letter with the receipts in the gmail or in the purchase history on Google Play. If you can't find the letter or purchase in your purchase history, write to Google Play Technical Support.
 
+Question
+~~~~~~~~
+
+Where do I get the order number when I buy on the site?
+
+Answer
+~~~~~~
+
+The order number is indicated on the receipt and also appears in the browser window after successful payment.
 
