@@ -10,18 +10,18 @@ Changes history
 ===============
 
 Version 9.0.1b1, 2022-11-21
--------------------
+---------------------------
 
 1. Updated SDK target version to 32.
 
 Version 8.9.6
--------------------
+---------------------------
 
 1. Improved push notifications import.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.9.5
--------------------
+---------------------------
 
 1. Added filter for transactions count in the period of a report.
 2. Added setting for changing search interval for connected transactions.
@@ -33,7 +33,7 @@ Version 8.9.5
 8. Fixed bugs in Free and Pro versions.
 
 Version 8.9.4
--------------------
+---------------------------
 
 1. Added tab management functions for reports.
 2. Added linked transactions for the lists of SMS and push notifications.
@@ -41,19 +41,19 @@ Version 8.9.4
 4. Fixed bugs in Free and Pro versions.
 
 Version 8.9.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.9.2
--------------------
+---------------------------
 
 1. The context menu for the list of operations is added.
 2. Added tab management functions by long tap on the tab name.
 3. Fixed bugs in Free and Pro versions.
 
 Version 8.9.1
--------------------
+---------------------------
 
 1. Added serverless data synchronization between devices. Devices must be in the same network.
 2. Data synchronization menu moved to common menu of directories.
@@ -63,29 +63,29 @@ Version 8.9.1
 6. Fixed bugs in Free and Pro versions.
 
 Version 8.8.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.8.4
--------------------
+---------------------------
 
 1. Added support for auto-renewed authorization in Dropbox. In previous versions for new users, authorization was completed within 4 hours of connecting the account. The changes will take effect after the Dropbox account is reconnected.
 2. Added notes for Transactions mode in reports.
 3. Fixed bugs in Free and Pro versions.
 
 Version 8.8.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.8.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.8.1
--------------------
+---------------------------
 
 1. Added electronic receipts import (supports limited countries).
 2. Added receipts QR code content import without downloading related data (supports limited countries).
@@ -97,46 +97,46 @@ Version 8.8.1
 8. Fixed bugs in Free and Pro versions.
 
 Version 8.7.9
--------------------
+---------------------------
 
 1. Critical errors shown in status-bar.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.7.8
--------------------
+---------------------------
 
 1. Money format now depends on currency settings.
 2. Filter can be applied to folders or items in reports.
 3. Fixed bugs in Free and Pro versions.
 
 Version 8.7.7
--------------------
+---------------------------
 
 1. Added import of accounts and portfolios from CSV files.
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.7.6
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.7.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.7.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.7.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.7.2
--------------------
+---------------------------
 
 1. Updated icons.
 2. Updated categories.
@@ -151,23 +151,23 @@ Version 8.7.2
 11. Fixed bugs in Free and Pro versions.
 
 Version 8.6.5
--------------------
+---------------------------
 
 1. Fixed bugs in the Changes in totals chart.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.6.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.6.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.6.2
--------------------
+---------------------------
 
 1. Added Intents API for integration with third party apps.
 2. Improved Currencies directory.
@@ -176,7 +176,7 @@ Version 8.6.2
 5. Fixed bugs in Free and Pro versions.
 
 Version 8.5.1
--------------------
+---------------------------
 
 1. Added groups support for Portfolios of accounts, each group has its own currency.
 2. Added groups support for Accounts, each group has its own currency.
@@ -185,26 +185,26 @@ Version 8.5.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 8.4.4
--------------------
+---------------------------
 
 1. Added file manager available from menu Service.
 2. Added import from CSV files from Zenmoney and Bluecoins.
 3. Fixed bugs in Free and Pro versions.
 
 Version 8.4.3
--------------------
+---------------------------
 
 1. Added additional indication for archived items.
 2. Added small interface improvements.
 3. Fixed bugs in Free and Pro versions.
 
 Version 8.4.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.4.1
--------------------
+---------------------------
 
 1. Added REST API support, see https://github.com/interblitz/BudgetBlitz-Api.
 2. Updated app notifications about new transactions.
@@ -214,23 +214,23 @@ Version 8.4.1
 6. Fixed bugs in Free and Pro versions.
 
 Version 8.3.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.3.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.3.2
--------------------
+---------------------------
 
 1. Added notes for accounts, portfolios and types of portfolios.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.3.1
--------------------
+---------------------------
 
 1. Updated dropdown lists.
 2. Added reset option for filters editor.
@@ -246,7 +246,7 @@ Version 8.3.1
 12. Fixed bugs in Free and Pro versions.
 
 Version 8.2.1
--------------------
+---------------------------
 
 1. Added currency support to the calculator.
 2. Added fast hints for spinners.
@@ -255,34 +255,34 @@ Version 8.2.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 8.1.6
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.1.5
--------------------
+---------------------------
 
 1. Added options to the Summary report.
 2. Added line breaks support in CSV files import.
 3. Fixed bugs in Free and Pro versions.
 
 Version 8.1.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.1.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.1.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.1.1
--------------------
+---------------------------
 
 1. Improved calculator.
 2. Added an option to set range conditions in the filter for amounts.
@@ -293,24 +293,24 @@ Version 8.1.1
 7. Fixed bugs in Free and Pro versions.
 
 Version 8.0.6
--------------------
+---------------------------
 
 1. Simplified upgrade from Free version to Pro.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.0.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 8.0.4
--------------------
+---------------------------
 
 1. Added stop-filter for the same notifications.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.0.3
--------------------
+---------------------------
 
 1. Added dialog when archived item selected.
 2. Added date and time setup for copying transactions.
@@ -318,13 +318,13 @@ Version 8.0.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 8.0.2
--------------------
+---------------------------
 
 1. Updated Payments Schedule report.
 2. Fixed bugs in Free and Pro versions.
 
 Version 8.0.1
--------------------
+---------------------------
 
 1. Updated app interface.
 2. Updated reports menu.
@@ -333,7 +333,7 @@ Version 8.0.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 7.4.3
--------------------
+---------------------------
 
 1. Added location to payers and payees.
 2. Added settings for locations filling.
@@ -341,12 +341,12 @@ Version 7.4.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 7.4.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.4.1
--------------------
+---------------------------
 
 1. Added quick search for transactions.
 2. Added quick search for recurring transactions.
@@ -357,13 +357,13 @@ Version 7.4.1
 7. Fixed bugs in Free and Pro versions.
 
 Version 7.3.2
--------------------
+---------------------------
 
 1. Improved CSV and OFX imports.
 2. Fixed bugs in Free and Pro versions.
 
 Version 7.3.1
--------------------
+---------------------------
 
 1. Improved navigation in the menu of directories.
 2. Added locations.
@@ -377,7 +377,7 @@ Version 7.3.1
 10. Fixed bugs in Free and Pro versions.
 
 Version 7.2.13
--------------------
+---------------------------
 
 1. Improved app performance.
 2. Improved Transactions rate mode for reports, rate of the connected transaction uses for foreign exchange transafers.
@@ -385,23 +385,23 @@ Version 7.2.13
 4. Fixed bugs in Free and Pro versions.
 
 Version 7.2.11
--------------------
+---------------------------
 
 1. Added Fix transactions errors option to the Service menu.
 2. Fixed bugs in Free and Pro versions.
 
 Version 7.2.10
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.9
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.8
--------------------
+---------------------------
 
 1. Added groups support in charts.
 2. Improved charts.
@@ -412,38 +412,38 @@ Version 7.2.8
 7. Fixed bugs in Free and Pro versions.
 
 Version 7.2.7
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.6
--------------------
+---------------------------
 
 1. Added CSV files export dialog.
 2. Fixed bugs in Free and Pro versions.
 
 Version 7.2.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.2.1
--------------------
+---------------------------
 
 1. Added groups in reports.
 2. Added export reports to PDF (Pro version, for Android >= 5.1).
@@ -456,29 +456,29 @@ Version 7.2.1
 9. Fixed bugs in Free and Pro versions.
 
 Version 7.1.6
--------------------
+---------------------------
 
 1. Changed settings for background services.
 2. Fixed bugs in Free and Pro versions.
 
 Version 7.1.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 2. Partly updated translations to Arabic, Hungarian, German, Portuguese (PT), Spanish.
 
 Version 7.1.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.1.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.1.1
--------------------
+---------------------------
 
 1. Added transaction fill based upon notes similarity.
 2. Updated settings of the automatic backup (Pro version).
@@ -488,12 +488,12 @@ Version 7.1.1
 6. Fixed bugs in Free and Pro versions.
 
 Version 7.0.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 7.0.3
--------------------
+---------------------------
 
 1. Added groups for directories with unlimited hierarchy level.
 2. Updated interface for selection key phrases. Commas admitted now.
@@ -504,12 +504,12 @@ Version 7.0.3
 7. Fixed bugs in Free and Pro versions.
 
 Version 6.10.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.10.1
--------------------
+---------------------------
 
 1. Added the option to customize sorting in reports.
 2. Added Pridnestrovian Republican Bank as a new foreign exchange source.
@@ -518,18 +518,18 @@ Version 6.10.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 6.9.3
--------------------
+---------------------------
 
 1. Improved card of account.
 2. Fixed duplicates control issues for notifications import.
 
 Version 6.9.2
--------------------
+---------------------------
 
 1. Fixed bugs in the backup - restore on Android 9+.
 
 Version 6.9.1
--------------------
+---------------------------
 
 1. Added quick search for importing notifications rules dialog. Dialog refreshed.
 2. SMS and Push tunes renamed to Rules of notifications import.
@@ -537,42 +537,42 @@ Version 6.9.1
 4. Fixed bugs in Free and Pro versions.
 
 Version 6.8.4
--------------------
+---------------------------
 
 1. Added quick search for filters editor.
 2. Fixed bugs in Free and Pro versions.
 
 Version 6.8.3
--------------------
+---------------------------
 
 1. Improved transactions sign detection algorithm. Now the same key phrase can be used for expenses and revenues in case if notification contains balance.
 2. Fixed bugs in Free and Pro versions.
 
 Version 6.8.2
--------------------
+---------------------------
 
 1. Added quick search for directories.
 2. Fixed bugs in Free and Pro versions.
 
 Version 6.8.1
--------------------
+---------------------------
 
 1. Added transactions import from clipboard.
 2. Added notifications about new transactions.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.7.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.7.2
--------------------
+---------------------------
 
 1. Fixed bugs in the notifications detection algorithm.
 
 Version 6.7.1
--------------------
+---------------------------
 
 1. Scrolling hides the period selection on the main screen and in reports.
 2. Improved SMS and notifications duplicates detection.
@@ -582,13 +582,13 @@ Version 6.7.1
 6. Fixed bugs in Free and Pro versions.
 
 Version 6.6.5
--------------------
+---------------------------
 
 1. Added options for the Summary report.
 2. Fixed bugs in Free and Pro versions.
 
 Version 6.6.4
--------------------
+---------------------------
 
 1. Improved dropdown lists.
 2. Improved filters dialog.
@@ -597,19 +597,19 @@ Version 6.6.4
 5. Fixed bugs in Free and Pro versions.
 
 Version 6.5.3
--------------------
+---------------------------
 
 1. Improved filters dialog.
 2. Improved objects editor.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.5.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.5.1
--------------------
+---------------------------
 
 1. Updated filters editor.
 2. Added bottom action buttons on the editor screen.
@@ -620,7 +620,7 @@ Version 6.5.1
 7. Fixed bugs in Free and Pro versions.
 
 Version 6.4.8
--------------------
+---------------------------
 
 1. Added encoding selection for CSV files import dialog.
 2. Closed accounts hides from selection lists.
@@ -630,34 +630,34 @@ Version 6.4.8
 6. Fixed minor bugs in Free and Pro versions.
 
 Version 6.4.6
--------------------
+---------------------------
 
 1. Added note for payers and payees, projects, persons.
 1. Fixed: notifications are not shown Android 8+.
 2. Fixed bugs in Free and Pro versions.
 
 Version 6.4.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.4.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.4.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.4.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.4.1
--------------------
+---------------------------
 
 1. Added option to filter items by calculated values in reports.
 2. Added progress indicators to reports.
@@ -665,21 +665,21 @@ Version 6.4.1
 4. Fixed bugs in Free and Pro versions.
 
 Version 6.3.1
--------------------
+---------------------------
 
 1. Added new rates source of cryptocurrencies Binance.
 2. Improved Plan Implementation report.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.2.7
--------------------
+---------------------------
 
 1. Improved list items selection.
 2. Improved period views in reports.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.2.5
--------------------
+---------------------------
 
 1. Added regular expressions support for accounts.
 2. Added hide from transactions list option for elements of categories, payers and payees, projects, persons.
@@ -690,19 +690,19 @@ Version 6.2.5
 7. Fixed bugs in Free and Pro versions.
 
 Version 6.2.4
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.2.3
--------------------
+---------------------------
 
 1. Filters activity replaced by dialog.
 2. Fixed Android 8 issues.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.2.2
--------------------
+---------------------------
 
 1. Material interface is available for the main screen, reports, transactions, and directories. Use settings to switch between interfaces.
 2. Added database statistics to the menu Service.
@@ -713,21 +713,21 @@ Version 6.2.2
 7. Fixed bugs in Free and Pro versions.
 
 Version 6.1.3
--------------------
+---------------------------
 
 1. Added support for transaction templates shortcuts for version Pro.
 2. Added an option to cancel existing transfer from the card of a transaction.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.1.2
--------------------
+---------------------------
 
 1. Added Android 8+ support for shortcuts.
 2. Improved pie chart.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.1.1
--------------------
+---------------------------
 
 1. Increased responsiveness of charts.
 2. Fixed headers in the export transactions to CSV files.
@@ -737,26 +737,26 @@ Version 6.1.1
 6. Fixed bugs in Free and Pro versions.
 
 Version 6.0.5
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 6.0.4
--------------------
+---------------------------
 
 1. Added an option to share portfolio type dimensions.
 2. Improved items editor interface.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.0.3
--------------------
+---------------------------
 
 1. Increased responsiveness of the interface.
 2. Added an option to transfer money between accounts with different currencies. The first transaction is the place to put currency rate and amount.
 3. Fixed bugs in Free and Pro versions.
 
 Version 6.0.2
--------------------
+---------------------------
 
 1. If data exchange used all nodes must be updated to version 6.
 2. Changed transfers. Now you can edit transfer transaction in a single card.
@@ -768,7 +768,7 @@ Version 6.0.2
 8. Fixed bugs in Free and Pro versions.
 
 Version 5.8.1
--------------------
+---------------------------
 
 1. Added an option to move action button.
 2. Added an option to select animation and behavior for action button.
@@ -777,14 +777,14 @@ Version 5.8.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 5.7.5
--------------------
+---------------------------
 
 1. Improved action button behavior.
 2. Added an option to change transfers visibility in the Summary.
 3. Fixed bugs in Free and Pro versions.
 
 Version 5.7.4
--------------------
+---------------------------
 
 1. Added the option to specify fields order and visibility for transaction and recurring transaction cards.
 2. Improved categories, payees and payers, projects, persons search when notifications importing. Regular expressions are supported now. Use “::” prefix for  regular expressions, for example “::marketopt\d+”.
@@ -794,7 +794,7 @@ Version 5.7.4
 6. Fixed bugs in Free and Pro versions.
 
 Version 5.7.3
--------------------
+---------------------------
 
 1. Updated app icon.
 2. Update settings screen. New name of the menu item is Settings.
@@ -808,17 +808,17 @@ Version 5.7.3
 10. Fixed bugs in Free and Pro versions.
 
 Version 5.7.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 5.7.1
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 5.6.3
--------------------
+---------------------------
 
 1. Planning row moved to the top at the Plan vs Actual report.
 2. Added the option to import 15 push notifications per month for the Free version.
@@ -826,26 +826,26 @@ Version 5.6.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 5.6.2
--------------------
+---------------------------
 
 1. Added the option to delete all transactions from the account card.
 2. Published new user manual.
 3. Fixed bugs in Free and Pro versions.
 
 Version 5.6.1
--------------------
+---------------------------
 
 1. Transaction sources are shown in the list when teamwork is on.
 2. Fixed bugs in Free and Pro versions.
 
 Version 5.5.5
--------------------
+---------------------------
 
 1. Filter is set to initial state after listview setting cancellation.
 2. Fixed bugs in Free and Pro versions.
 
 Version 5.5.4
--------------------
+---------------------------
 
 1. The last used setting of the main screen transactions list now restored when the app get started.
 2. Current dates range is used when list view setting selected but setting’s one is used when the setting is selected with long tap.
@@ -854,14 +854,14 @@ Version 5.5.4
 5. Fixed bugs in Free and Pro versions.
 
 Version 5.5.3
--------------------
+---------------------------
 
 1. Added to the listview settings an option to setup offset period in months.
 2. Range of a report now depends on the main screen range.
 3. Fixed bugs in Free and Pro versions.
 
 Version 5.5.2
--------------------
+---------------------------
 
 1. Added transactions list the main screen pages.
 2. Added vibration on calculator buttons pressed.
@@ -871,31 +871,31 @@ Version 5.5.2
 6. Fixed bugs in Free and Pro versions.
 
 Version 5.5.1
--------------------
+---------------------------
 
 1. Added notifications for SMS and push alerts import tunes updates available.
 2. Fixed: zero-amount transactions are not saved.
 3. Fixed bugs in Free and Pro versions.
 
 Version 5.4.4
--------------------
+---------------------------
 
 1. Fixed: drilldown transactions list contains planned transactions incorrectly.
 2. Fixed bugs in Free and Pro versions.
 
 Version 5.4.3
--------------------
+---------------------------
 
 1. Event log improved.
 2. Fixed bugs in Free and Pro versions.
 
 Version 5.4.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 5.4.1
--------------------
+---------------------------
 
 1. Improved CSV and OFX files import dialog.
 2. Added preview to the CSV and OFX files import dialog.
@@ -909,7 +909,7 @@ Version 5.4.1
 10. Fixed bugs in Free and Pro versions.
 
 Version 5.3.3
--------------------
+---------------------------
 
 1. Added new rates source of cryptocurrencies PoloniEx.
 2. Btc-e rates source of cryptocurrencies is set off.
@@ -919,19 +919,19 @@ Version 5.3.3
 6. Fixed bugs in Free and Pro versions.
 
 Version 5.3.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 5.3.1
--------------------
+---------------------------
 
 1. Sorting order depends on the context when choosing budget items. The filter is no longer used.
 2. Default values associated with the account or counterparty are set only if this values are not empty.
 3. Fixed bugs in Free and Pro versions.
 
 Version 5.2.4
--------------------
+---------------------------
 
 1. Added transparency setting in the app widget.
 2. Added option to apply credit limit to balance or not in the app widget.
@@ -940,7 +940,7 @@ Version 5.2.4
 5. Fixed bugs in Free and Pro versions.
 
 Version 5.2.3
--------------------
+---------------------------
 
 1. Improved control of double transactions when using SMS and push-alerts parser.
 2. Added Ready button to the range selection.
@@ -949,12 +949,12 @@ Version 5.2.3
 5. Fixed bugs in Free and Pro versions.
 
 Версия 5.2.2
--------------------
+---------------------------
 
 1. Fixed key phrases selection from SMS.
 
 Версия 5.2.1
--------------------
+---------------------------
 
 1. Added run-time permissions support for Android 6.0 and high.
 3. Improved widget settings dialog.
@@ -963,7 +963,7 @@ Version 5.2.3
 5. Fixed bugs in Free and Pro versions.
 
 Version 5.1.3
--------------------
+---------------------------
 
 1. Added an option to search using first letters in filters.
 2. Open bottom sheet is closed on back pressed now.
@@ -972,13 +972,13 @@ Version 5.1.3
 5. Fixed minor bugs in Free and Pro versions.
 
 Version 5.1.2
--------------------
+---------------------------
 
 1. Long tap in the card of transaction or directory on a dropdown item shows editor of the item.
 2. Fixed: calendar is not shown when selection period on Android versions prior 6.
 
 Version 5.1.1
--------------------
+---------------------------
 
 1. Added BYN currency to the installation package.
 2. Long tap on reports group or main screen group opens editor. Context menu caused by long tap on report child item also has a menu item Edit.
@@ -989,7 +989,7 @@ Version 5.1.1
 7. Fixed minor bugs in Free and Pro versions.
 
 Version 5.0.5
--------------------
+---------------------------
 
 1. Added the option to specify amount for a new transactions from the widget in the Pro version. Using together with filters this can be acted as transaction templates.
 2. Added day to the transactions list.
@@ -1001,7 +1001,7 @@ Version 5.0.5
 8. Fixed bugs in Free and Pro versions.
 
 Версия 5.0.4
--------------------
+---------------------------
 
 1. Main screen portfolios states saved and restored automatically.
 2. Added help for credit limit setup in the account card.
@@ -1010,7 +1010,7 @@ Version 5.0.5
 5. Improved filter dialog.
 
 Version 5.0.3
--------------------
+---------------------------
 
 1. Improved recurring transactions activity.
 2. Fixed bugs in the filter dialog.
@@ -1018,13 +1018,13 @@ Version 5.0.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 5.0.2
--------------------
+---------------------------
 
 1. Added available balance on a main screen. Available balance calculated upon all transactions. Current balance calculated upon all transactions excluding technical ones contained categories neither Revenue nor Expense.
 2. Fixed bugs in Free and Pro versions.
 
 Version 5.0.1
--------------------
+---------------------------
 
 1. App’s interface updated.
 2. Main menu invoked by hard Menu button if mobile has that one.
@@ -1049,12 +1049,12 @@ Version 5.0.1
 21. Fixed minor bugs in Free and Pro versions.
 
 Version 4.5.2
--------------------
+---------------------------
 
 1. Fixed: on Android 7.0+ app crashes on choosing date, time or period.
 
 Version 4.5.1
--------------------
+---------------------------
 
 1. Added filter editor to the listview setting card.
 2. Fixed screen rotation related bugs.
@@ -1062,7 +1062,7 @@ Version 4.5.1
 4. Fixed minor bugs in Free and Pro versions.
 
 Version 4.4.4
--------------------
+---------------------------
 
 1. Added National Bank of Ukraine as currencies source.
 2. Fixed: reports are not available for past periods if period’s filter is off.
@@ -1073,14 +1073,14 @@ Version 4.4.4
 7. Fixed minor bugs in Free and Pro versions.
 
 Version 4.4.3
--------------------
+---------------------------
 
 1. Algorithm of the SMS import improved in the Pro version. If payment has more than one SMS alerts then SMS with additional information is recognized also, even if it comes later than the main one.
 2. Algorithm of the SMS import improved in Free and Pro versions. Transfers are detected even if both accounts have SMS alerts. For this kind of transactions note looks like Source Account → Target account.
 3. Fixed bugs in Free and Pro versions.
 
 Version 4.4.2
--------------------
+---------------------------
 
 1. Calculator improved.
 2. Added totals evaluation on selected items to reports.
@@ -1088,7 +1088,7 @@ Version 4.4.2
 4. Fixed bugs in Free and Pro versions. 
 
 Version 4.4.1
--------------------
+---------------------------
 
 1. Added an option for reports to group by transactions.
 2. Updated Payment Schedule report.
@@ -1100,30 +1100,30 @@ Version 4.4.1
 8. Fixed bugs in Free and Pro versions.
 
 Version 4.3.5
--------------------
+---------------------------
 
 1. Added SMS messages directory with an option to send selected messages to the app developer.
 2. Fixed bugs in Free and Pro versions.
 
 Version 4.3.4
--------------------
+---------------------------
 
 1. Fixed bug when running a report from a shortcut in the Pro version. 
 2. Fixed bugs in Free and Pro versions.
 
 Version 4.3.3
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 2. Calendar improved.
 
 Version 4.3.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 4.3.1
--------------------
+---------------------------
 
 1. Added grouping options By quarters, By six months, By years to all reports. 
 2. Improved algorithm of SMS and Push notifications recognition.
@@ -1132,7 +1132,7 @@ Version 4.3.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 4.2.3
--------------------
+---------------------------
 
 1. Reports refreshed.
 2. Added Turnovers report.
@@ -1142,7 +1142,7 @@ Version 4.2.3
 6. Fixed bugs in Free and Pro versions.
 
 Version 4.2.2
--------------------
+---------------------------
 
 1. Improved Banco do Brasil SMS recognition.
 2. Improved AnyBalance app push notifications recognition.
@@ -1151,7 +1151,7 @@ Version 4.2.2
 5. Fixed bugs in Free and Pro versions.
 
 Version 4.2.1
--------------------
+---------------------------
 
 1. Added fast filter option base on one or several transactions. 
 2. Improved X axis view, added average values to the bar chart.
@@ -1160,7 +1160,7 @@ Version 4.2.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 4.1.3
--------------------
+---------------------------
 
 1. Improved algorithm of SMS and Push revenue information notifications combining.
 2. Added Rocketbank Push notifications support.
@@ -1170,7 +1170,7 @@ Version 4.1.3
 6. Fixed bugs in Free and Pro versions. 
 
 Version 4.1.2
--------------------
+---------------------------
  
 1. Added BTC-E marketplace as crypto currencies rates source.
 2. Improved notifications recognition algorithm. For new incoming SMS and Push notifications all related previous information notifications checked.
@@ -1178,7 +1178,7 @@ Version 4.1.2
 4. Fixed bugs in Free and Pro versions.
 
 Version 4.1.1
--------------------
+---------------------------
 
 1. Added sections for list boxes.
 2. Removed numbers from categories for new users.
@@ -1191,19 +1191,19 @@ Version 4.1.1
 9. Fixed bugs in Free and Pro versions.
 
 Version 4.0.5
--------------------
+---------------------------
 
 1. Fixed bugs in Pie и Bars diagrams.
 
 Version 4.0.4
--------------------
+---------------------------
 
 1. Moved note in the split to the second place.
 2. Added two diagrams (Pie and Bars) in the experimental mode.
 3. Fixed bugs in Free and Pro versions.
 
 Version 4.0.3
--------------------
+---------------------------
 
 1. Added option to read Push and usual notifications for all Android versions (Pro version). You should activate the option by selecting notification sources in the app’s settings.
 2. Added notification storage.
@@ -1214,7 +1214,7 @@ Version 4.0.3
 7. Fixed bugs in Free and Pro versions.
 
 Version 4.0.2
--------------------
+---------------------------
 
 1. Added option to read Push and usual notifications for the Pro version (experimental mode). You should activate the option by selecting notification sources in the app’s settings.
 2. Added Totals and Turnovers report. Technical categories have neither Expense nor Revenue option are excluded from the report. This categories should be used for fixing credit limit changing. 
@@ -1226,14 +1226,14 @@ Version 4.0.2
 8. Fixed bugs in Free and Pro versions.
 
 Version 4.0.1
--------------------
+---------------------------
 
 1. Added completion suggestions for list boxes.
 2. Increased font size in dropdown lists.
 3. Fixed bugs in Free and Pro versions.
 
 Version 3.10.3
--------------------
+---------------------------
 
 1. Added option to choose icon for portfolios.
 2. Expenses in the widget are shown with triangle down directed.
@@ -1241,7 +1241,7 @@ Version 3.10.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.10.2
--------------------
+---------------------------
 
 1. Added save list view settings option for reports.
 2. Added shortcut creating option for list view settings (Pro version).
@@ -1249,7 +1249,7 @@ Version 3.10.2
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.10.1
--------------------
+---------------------------
 
 1. Added dark theme. Updated colors and icons.
 2. Added the profile option to specify default sign for transaction within manual input.
@@ -1260,7 +1260,7 @@ Version 3.10.1
 7. Fixed bugs in Free and Pro versions.
 
 Version 3.9.11
--------------------
+---------------------------
 
 1. Added default person (unit) to the Payers and payees directory.
 2. Local totals are calculated when transactions checked.
@@ -1271,7 +1271,7 @@ Version 3.9.11
 7. Fixed bugs in Free and Pro versions.
 
 Version 3.9.10
--------------------
+---------------------------
 
 1. Constant background colors used for revenue, expenses and eliminable transactions.
 2. Added creating calendar events option for usual and recurring transactions.
@@ -1282,7 +1282,7 @@ Version 3.9.10
 
 
 Version 3.9.9
--------------------
+---------------------------
 
 1. Added in the Pro version’s app widget options to specify turnovers period and analytics filter.
 2. Optimized memory usage when data exchange used.
@@ -1293,7 +1293,7 @@ Version 3.9.9
 7. Fixed bugs in Free and Pro versions.
 
 Version 3.9.8
--------------------
+---------------------------
 
 1. Added 1*1 app widget.
 2. Added option to specify widget“s font size.
@@ -1301,12 +1301,12 @@ Version 3.9.8
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.9.7.1
--------------------
+---------------------------
 
 1. Fixed bug in the 2*1 app widget.  
 
 Version 3.9.7
--------------------
+---------------------------
 
 1. Added Hungarian translation.
 2. Added 2*1 app widget.
@@ -1319,14 +1319,14 @@ Version 3.9.7
 9. Fixed bugs in Free and Pro versions.
 
 Version 3.9.6
--------------------
+---------------------------
 
 1. Added SMS messages recognition support for currencies without decimal fractions (HUF, BYR, JPY, ...)
 2. Fully reworked app widget, added balance view and additional settings.
 3. Fixed bugs in Free and Pro versions.
 
 Version 3.9.5
--------------------
+---------------------------
 
 1. Improved balance automatic adjustment algorithm when SMS messages have wrong order, if connection lost when payments for instance. After restoring SMS messages order the app deletes redundant adjustments.
 2. Added exchange nodes filter (data source filter) to directories and transactions list.
@@ -1334,7 +1334,7 @@ Version 3.9.5
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.9.4
--------------------
+---------------------------
 
 1. Fixed error in the Data synchronization was able to cause exchange stop.
 2. Added Envelopes menu subitem to Data synchronization menu item.
@@ -1344,14 +1344,14 @@ Version 3.9.3
 1. Fixed crash on Huawei smartphones (Android 5.1) when transaction list or reports activities open.
 
 Version 3.9.2
--------------------
+---------------------------
 
 1. Added automatic amount computation in the calculator.
 2. Calculator opens immediately for an amount edit when new transaction created.
 3. Fixed bugs in Free and Pro versions.
 
 Version 3.9.1
--------------------
+---------------------------
 
 1. Added SMS import tunes exchange with remote server. Exchange should be allowed in the active profile. Tunes loading is performed manually from Import menu. Currently more than 100 SMS import tunes are available for banks of Republic of Belarus, Brazil, Russia and Ukraine.
 2. Improved SMS import dialog. Add options to change period, view transactions and event log.
@@ -1359,7 +1359,7 @@ Version 3.9.1
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.8.3
--------------------
+---------------------------
 
 1. SMS import preset updated for Alfa Bank.
 2. Fixed bugs in the manual SMS import.
@@ -1367,13 +1367,13 @@ Version 3.8.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.8.2
--------------------
+---------------------------
 
 1. SMS import preset updated for Citibank.
 2. Fixed bugs in Free and Pro versions.
 
 Version 3.8.1
--------------------
+---------------------------
 
 1. Added financial institution, commission and correction budget items to the account card.
 2. Improved import SMS, the app creates commission transaction automatically when SMS contains commission. Financial institution is used for payee.
@@ -1384,38 +1384,38 @@ Version 3.8.1
 7. Fixed bugs in Free and Pro versions.
 
 Version 3.7.7
--------------------
+---------------------------
 
 1. Fixed bugs in reports Debts and Monthly expenses and revenue.
 2. Fixed bug of the date changing for copied transactions.
 3. Fixed bug of the balance detection in VTB24 bank messages.
 
 Version 3.7.6
--------------------
+---------------------------
 
 1. CSV files import improved. Option to create new categories, payers and payees, projects and persons added.
 
 Version 3.7.5
--------------------
+---------------------------
 
 1. Fixed bugs in the Expense and revenue distribution.
 2. Fixed bugs in the foreign exchange loading when mobile Internet is on.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 3.7.4
--------------------
+---------------------------
 
 1. Period spinner errors fixed.
 
 Version 3.7.3
--------------------
+---------------------------
 
 1. Added period spinner to the transactions list and reports.
 2. Added text files import. It can be used for OCR processed receipts loading. SMS import rules applied for text files import.
 3. Fixed bugs in Free and Pro versions.
 
 Version 3.7.2
--------------------
+---------------------------
 
 1. Improved report Payments schedule. Version Free has some restrictions, version Pro hasn't.
 2. Improved report Plan implementation. Now plan and actual values are shown separately.
@@ -1423,7 +1423,7 @@ Version 3.7.2
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.7.1
--------------------
+---------------------------
 
 1. Added new report Debts and Credits. The report is based on transactions containing categories with Summary option and also both Expenses and Revenue options. Version Free has some restrictions, version Pro hasn't.
 2. Added new report Plan implementation. The report is based on planned and actual transactions containing categories with Summary option and also either Expenses or Revenue option. Version Free has some restrictions, version Pro hasn't.
@@ -1432,7 +1432,7 @@ Version 3.7.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 3.6.8
--------------------
+---------------------------
 
 1. Added the option to setup key phrases for SMS with balance. That means other SMS have no balance.
 2. Added preset SMS import tune for Banco do Brasil.
@@ -1441,7 +1441,7 @@ Version 3.6.8
 5. Fixed bugs in Free and Pro versions.
 
 Version 3.6.7
--------------------
+---------------------------
 
 1. Increased size of squares in the color spinner.
 2. Improved algorithm for determining the amounts in the SMS.
@@ -1449,7 +1449,7 @@ Version 3.6.7
 4. Fixed error in determining the amount in the SMS when card number placed near amount.
 
 Version 3.6.6
--------------------
+---------------------------
 
 1. Added export to Dropbox function to the report Expenses and revenue distribution (preview version). Free version restricted to the only 50 records.
 2. Added D and C postfixes (i.e. RS 1,000.00C) support when importing SMS.
@@ -1457,13 +1457,13 @@ Version 3.6.6
 4. Fixed minor bugs in Free and Pro versions.
 
 Version 3.6.5
--------------------
+---------------------------
 
 1. Fixed: search categories by name is not working during CSV file import.
 2. Fixed: negative amounts recognized as positive during CSV file import.
 
 Version 3.6.4
--------------------
+---------------------------
 
 1. SMS amounts recognition algorithm improved. There is no need to specify decimal separator in the SMS import tune now.
 2. Fixed: amount is incorrect, if there is number or date before an amount (for example 01.01.2015 100 EUR; 9999, RS 10).
@@ -1472,20 +1472,20 @@ Version 3.6.4
 5. Fixed minor bugs in Free and Pro versions.
 
 Version 3.6.3
--------------------
+---------------------------
 
 1. Fixed: errors in the detection of SMS.
 2. Fixed in the Pro version: errors in the detection of SMS that confirm transactions containing commission.  
 
 
 Version 3.6.2
--------------------
+---------------------------
 
 1. Internal calculator improved.
 2. Fixed bugs in Free and Pro versions.
 
 Version 3.6.1
--------------------
+---------------------------
 
 1. Interface updated.
 2. Transactions are grouped by account's currency now. Transaction preview card improved.
@@ -1494,18 +1494,18 @@ Version 3.6.1
 5. Fixed bugs in Free and Pro versions.
 
 Version 3.5.5
--------------------
+---------------------------
 
 1. Fixed: secondary transactions are hidden when creating chain of transactions.
 2. Fixed: reports reset filters when turning screen
 
 Version 3.5.4
--------------------
+---------------------------
 
 1. Error of initial values setting for new objects fixed. 
 
 Version 3.5.3
--------------------
+---------------------------
 
 1. Interface updated.
 2. Keywords selection from SMS added. SMS list grouped by sender used in common cases. Text of the transaction's source SMS used when add or edit elements from transaction's card.
@@ -1513,12 +1513,12 @@ Version 3.5.3
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.5.2
--------------------
+---------------------------
 
 1. Upgrade from Free to Pro version error fixed.
 
 Version 3.5.1
--------------------
+---------------------------
 
 1. Interface updated.
 2. More than 100 currencies added.
@@ -1527,26 +1527,26 @@ Version 3.5.1
 5. Fixed minor bugs in Free and Pro versions.
 
 Version 3.4.4
--------------------
+---------------------------
 
 1. Persons detailing bug fixed in the report Plan/actual comparison by analytics.
 2. Using keywords that contain quotes bug fixed in the SMS parser.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 3.4.3
--------------------
+---------------------------
 
 1. Critical bug fixed when choosing currency.
 
 Version 3.4.2
--------------------
+---------------------------
 
 1. Additional exchange rate sources added to the Pro version: precious metals rate from Russian Federation central bank and US Bitpay. The app updates rates from these sources after primary source defined in the active profile. Precious metal codes: XAU — gold (troy ounce),  XAUG — gold (grams), XAG — silver (troy ounce),  XAGG — silver (grams), XPT — platinum (troy ounce),  XPTG — platinum (grams), XPD — palladium (troy ounce), XPDG — palladium (grams).
 2. Event log improved.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 3.4.1
--------------------
+---------------------------
 
 1. An option to select group added to plan and fact comparison reports. Portfolio types and portfolios available in the Free version. Portfolio types, portfolios, accounts, categories, projects, payees / payers, persons / units available in the Free version. 
 2. SMS parser improved in the Pro Version. Confirmation SMS (3D Secure, MasterCard SecureCode, J/Secure, SafeKey) now is subject of analyses too.
@@ -1556,20 +1556,20 @@ Version 3.4.1
 6. Fixed bugs in Free and Pro versions.
 
 Version 3.3.4
--------------------
+---------------------------
 
 1. Bugs fixed in the CSV transactions import. Added Financisto files support.
 2. Bugs fixed for dialogs layout on Sony Android 2.3.  devices.
 
 Version 3.3.2
--------------------
+---------------------------
 
 1. New option to create chains of transactions (e.g. transfers). App detects chains automatically based upon same amount with out sign within short time period.
 2. New option to import transactions in the CSV format.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 3.3.1
--------------------
+---------------------------
 
 1. Additional usage check performs when you delete an item from the list of cards. A list of dependencies is shown.
 2. Transactions related with recurring transactions are not available for editing. That ones marked as "Link" icon. You should edit recurring transactions instead. Elapsed transactions have gray icon color, other have green. Only dependent transactions with green icon will be changed when you change recurring transaction. All dependent transactions will be deleted when you delete recurring transaction.
@@ -1577,19 +1577,19 @@ Version 3.3.1
 4. Fixed minor bugs in Free and Pro versions.
 
 Version 3.2.5
--------------------
+---------------------------
 
 1. Expense and revenue features now available for categories. Each one has it's own icon. Drop down list of categories depends on this features and transaction's sign. Category becomes hidden when it has neither expense no revenue feature.
 2. Fixed minor bugs in Free and Pro versions.
 
 Version 3.2.4
--------------------
+---------------------------
 
 1. Fixed end of the period view bug for recurring transactions.
 2. Available memory for data exchange increased.
 
 Version 3.2.3
--------------------
+---------------------------
 
 1. Colorful icons! You can change icon's color in the card of account.
 2. New option to specify days of the week in recurrence types. So you can create transactions recurring by days of the week. 
@@ -1598,7 +1598,7 @@ Version 3.2.3
 5. Fixed minor bugs in Free and Pro versions.
 
 Version 3.2.2
--------------------
+---------------------------
 
 1. Sorting order fixed for planned transactions.
 2. Bugs in the csv export fixed.
@@ -1606,42 +1606,42 @@ Version 3.2.2
 4. Fixed minor bugs in Free and Pro versions.
 
 Version 3.2.1
--------------------
+---------------------------
 
 1. Icons for accounts! You can change icon in the card of account.
 2. Fixed minor bugs in Free and Pro versions.
 
 Version 3.1.6
--------------------
+---------------------------
 
 1. SMS import presets added for Promsvyazbank, Citibank and Unicreditbank.
 2. Speed improvements.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 3.1.5
--------------------
+---------------------------
 
 1. Saving events critical bug fixed.
 
 Version 3.1.4
--------------------
+---------------------------
 
 1. Bugs fixed in the data exchange.
 2. Exchange node deletion bug fixed.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 3.1.3
--------------------
+---------------------------
 
 1. Fixed filter editor bugs in Free and Pro versions.
 
 Version 3.1.2
--------------------
+---------------------------
 
 1. Fixed bugs in Free and Pro versions.
 
 Version 3.1.1
--------------------
+---------------------------
 
 1. Charts added to the PC client.
 2. Import from OFX (Open Financial Exchange) added.
@@ -1649,7 +1649,7 @@ Version 3.1.1
 4. Fixed bugs in Free and Pro versions.
 
 Version 3.0.1
--------------------
+---------------------------
 
 1. First version for PC client available. Modern browser (Internet Explorer 8+, Google Chrome, Apple Safari, Mozilla Firefox, Opera) and local WiFi network required. PC connection option available from the main screen of the app. Free version has restrictions, only 50 transactions permitted for the client.
 2. Menu optimized. Selected elements functions transferred to the context menu that appears when you mark any element.
@@ -1658,61 +1658,61 @@ Version 3.0.1
 5. Fixed minor bugs in Free and Pro versions.
 
 Version 2.9.1.4
--------------------
+---------------------------
 
 1. Totals for eliminable transactions added to the list of transactions.
 2. Fixed: options of the filter used when copying items if the filter enabled.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 2.9.1.3
--------------------
+---------------------------
 
 1. Added option to generate a new identifier for the local node (used, for example, if the node is restored from a backup).
 2. Added filter on common and eliminable transactions (transfers).
 3. Added lock app pattern to restrict access (version Free). The lock pattern is specified in the active profile.
 
 Version 2.9.1.2
--------------------
+---------------------------
 
 1. Added exchange node's code validation.
 2. Expenses, revenue and negative values are displayed in different colors in Plan/actual comparison by analytics report and Plan/actual comparison by periods report.
 
 Version 2.9.1.1
--------------------
+---------------------------
 
 1. Added ability for decentralized teamwork (beta version). Restrictions for receiving and transmitting data for each exchange node can be set. Data exchange option is available in the active profile. Team members should exchange their node's ID before getting started. Free version cannot receive node's messages. For details, see the User's Guide (http://interblitz.biz). 
 2. Fixed bugs in Free and Pro.
 
 Version 2.8.2.8
--------------------
+---------------------------
 
 1. Fixed: cannot detect money correctly from SMS if the decimal separator in the SMS import tune is not equal decimal point.
 2. Fixed: totals in the main page include future actual transactions.
 3. Fixed: account's caption is trimmed even if there is enough room.
 
 Version 2.8.2.7
--------------------
+---------------------------
 
 1. The algorithm of SMS parsing improved
 2. Pull to refresh gesture available to refresh main page.
 
 Version 2.8.2.6
--------------------
+---------------------------
 
 1. Event log improved.
 
 Version 2.8.2.5
--------------------
+---------------------------
 
 1. Added an option to switch incoming SMS analyze (automatic SMS import) off. The option is specified in the active profile.
 
 Version 2.8.2.4
--------------------
+---------------------------
 
 1. Bug fixed: cannot import SMS in manual mode if an account has more than one identifier.
 
 Version 2.8.2.3
--------------------
+---------------------------
 
 1. Added ability to import SMS without currency placed near amount of money. In this case, the currency of the account is used. This option added to SMS import tunes.
 2. Added preset import settings for SMS Rosbank (test mode).
@@ -1720,7 +1720,7 @@ Version 2.8.2.3
 4. Fixed minor bugs in Free and Pro versions.
 
 Version 2.8.2.2
--------------------
+---------------------------
 
 1. Added the ability to make an account closed. Closed account is not displayed on the main page and pick lists.
 2. The main page hides portfolios without any open accounts.
@@ -1731,7 +1731,7 @@ Version 2.8.2.2
 7. Fixed minor bugs in Free and Pro versions.
 
 Version 2.8.2.1
--------------------
+---------------------------
 
 1. Added lock app pattern to restrict access (version Pro). The lock pattern is specified in the active profile.
 2. Fixed: incorrect displaying charts on the high-resolution screens
@@ -1739,17 +1739,17 @@ Version 2.8.2.1
 4. Fixed minor bugs in Free and Pro versions.
 
 Version 2.8.1.3
--------------------
+---------------------------
 
 1. Error of the balance calculation of an account on SMS push fixed.
 
 Version 2.8.1.2
--------------------
+---------------------------
 
 1. Errors in detection of SMS fixed.
 
 Version 2.8.1.1
--------------------
+---------------------------
 
 1. Portfolios, categories, payers and payees, projects, persons are grouped by types of portfolio. Accounts is grouped by portfolios.
 2. The account balance is displayed in operations editor.
@@ -1760,17 +1760,17 @@ Version 2.8.1.1
 7. Fixed minor bugs in Free and Pro versions.
 
 Version 2.8.0.3
--------------------
+---------------------------
 
 1. New feature: the option to set up several SMS sender IDs for the one account added.
 
 Version 2.8.0.2
--------------------
+---------------------------
 
 1. Bug fixed: sometimes app crashes when SMS pushing or currency rates loading simultaneously with manual SMS importing.
 
 Version 2.8.0.1
--------------------
+---------------------------
 
 1. New feature to set ringtones on receive an SMS for revenue, expense or transfer transactions. Use profile options to set up ringtones.
 2. Dialog of the manual import SMS is improved. Added preview SMS option. Added select SMS feature. Import SMS moved to the main menu.
@@ -1779,7 +1779,7 @@ Version 2.8.0.1
 5. Fixed minor bugs in Free and Pro versions.
 
 Version 2.7.7.5
--------------------
+---------------------------
 
 1. Bug fixed: backup to the cloud service Dropbox fails on Nexus 7.
 2. SMS import tune added for Alfa-Bank.
@@ -1787,27 +1787,27 @@ Version 2.7.7.5
 4. SMS import tune added for VTB 24 bank.
 
 Version 2.7.7.4
--------------------
+---------------------------
 
 1. Automatic grouping of small sections to the "All other" section of the pie chart "Expenses and revenue distribution" added. Small sections can be seen by using zoom gestures or from menu.
 2. Errors in detection of SMS fixed.
 3. Fixed minor bugs in Free and Pro versions.
 
 Version 2.7.7.3
--------------------
+---------------------------
 
 1. �alendar for date choise improved. 
 2. Automatic font scaling configured in charts for screens with high pixel density. 
 3. Batch processing details of split transactions added (budget items, projects and persons). Changes applied to the whole transactions.
 
 Version 2.7.7.2
--------------------
+---------------------------
 
 1. Detection of SMS improved.
 2. Filter "Persons and units" added to reports and charts.
 
 Version 2.7.7.1
--------------------
+---------------------------
 
 1. New feature of notifying about important planned payments early in the day for version Pro. Notification options are specified in the active profile, notifications is off by default. Importance is determined by a Notify option, which is specified in the permanent transactions.
 2. Improved amounts formatting.
@@ -1815,12 +1815,12 @@ Version 2.7.7.1
 4. App is loading faster.
 
 Version 2.7.6.2
--------------------
+---------------------------
 
 1. Bug fixed: Planned transactions are not shown in the reports and the list of transactions.
 
 Version 2.7.6.1
--------------------
+---------------------------
 
 1. Expenses, income and negative values are displayed in different colors in the main application window. Different accounts have different colored vertical bars.
 2. A new analytics "Persons and units" to account objects of costs and revenues. Thus, this is opportunity to indicate who spent one or another amount.
@@ -1830,52 +1830,52 @@ Version 2.7.6.1
 6. Fixed minor bugs in Free and Pro.
 
 Version 2.7.5.6
--------------------
+---------------------------
 
 1. Bug fixed: SMS currencies determined by the partial match code, although they should be determined by the full one. Note this change affects the SMS import. If you created your own import settings, please check the codes of the currencies. For example, if the text SMS amount indicated as "US 100", the currency code must be present USD code "US", e.g. "USD US." Previously, it was enough to indicate the "USD".
 2. Bug fixed: sometimes app crashes when receiving SMS, if SMS import tune for the account specified in the SMS contains blank fields.
 3. Interlaced highlights added for the main screen.
 
 Version 2.7.5.5
--------------------
+---------------------------
 
 1. Bug fixed: SMS import cause app crash for Arabic languages.
 2. Bug fixed: simple calculator does not work for Arabic languages.
 3. Bug fixed: permanent operations editor does not use filter Active / Elapsed.
 
 Version 2.7.5.4
--------------------
+---------------------------
 
 1. Bug fixed: app crashes when codes of directories contain special characters ("*","+","-", etc) when receiving SMS.
 2. Bug fixed: app crashes when digital keyboard uses for Arabic languages.
 3. Event log improved.
 
 Version 2.7.5.3
--------------------
+---------------------------
 
 1. Bug fixed: on some devices the window of the initial SMS import does not open.
 
 Version 2.7.5.2
--------------------
+---------------------------
 
 1. New export reports option.
 2. Bugs fixed.
 
 Version 2.7.5.1
--------------------
+---------------------------
 
 1. New backup option. Backup can be saved to the cloud service Dropbox (www.dropbox.com).
 1. New auto backup option. Backup can be saved automatic within specified period to the cloud service Dropbox. (Pro version).
 3. Event log improved.
 
 Version 2.7.4.3
--------------------
+---------------------------
 
 1. A simple calculator added to the numeric keypad.
 2. Event log improoved.
 
 Version 2.7.4.2
--------------------
+---------------------------
 
 1. Event log added to the menu Directories.
 2. Fixed bug: wrong category defined for external transfer transaction when SMS received.
@@ -1883,12 +1883,12 @@ Version 2.7.4.2
 4. Fixed bug: transactions are saved incorrectly when mass editing (selecting the checkboxes in the list, then edit). 
 
 Version 2.7.4.1
--------------------
+---------------------------
 
 1. Fixed a bug: if an identifier of an account specified as a phone number with the + sign, then imports SMS is not working correctly.
 
 Version 2.7.4
--------------------
+---------------------------
 
 1. New import SMS options. Cash withdrawal or deposit transactions at an ATM (transfer transactions) automatic creating for cash accounts.
 2. New import SMS options. The rate of transactions includes additional commissions if exist.
@@ -1900,20 +1900,20 @@ Version 2.7.4
 8. Minor bugs fixed.
 
 Version 2.7.3
--------------------
+---------------------------
 
 1. New import SMS options. Automatic determination of the category and the project. Keyword phrases fields added to the category and the project.
 2. SMS text field added to the card of transaction, which is filled in automatically if the transaction was created from SMS. Earlier, the SMS text used the note.
 3. Context menu displays automatically when several items are checked in the list of transactions and directories.
 
 Version 2.7.2
--------------------
+---------------------------
 
 1. Fixed: app crashes when all digits except minus sign deleted in the sum of expense transaction.
 2. Fixed: transactions editor shows nothing when drilling down from reports.
 
 Version 2.7.1
--------------------
+---------------------------
 
 1. Directory "Contractors" renamed as "Payers and payee".
 2. Field "default contractor" renamed as "default payee in incomes transactions" in the account card.
@@ -1926,7 +1926,7 @@ Version 2.7.1
 9. Bugs fixed.
 
 Version 2.7.0
--------------------
+---------------------------
 
 1. New items editor. Navigation between elements added. Numeric input improved.
 2. Widget size fixed to 4x1.
@@ -1936,7 +1936,7 @@ Version 2.7.0
 6. Fixed many minor bugs.
 
 Version 2.6.2
--------------------
+---------------------------
 
 1. New widget of current operations. Widget shows current expenditures and revenues, provides quick access to creating new transactions, editing the last transaction, viewing all todays transactions.
 2. New option of saving and restoring backups for Free version.
@@ -1944,26 +1944,26 @@ Version 2.6.2
 4. Fixed a bug when adding new permanent operations, which resulted in the wrong limited selection of categories.
 
 Version 2.6.1
--------------------
+---------------------------
 
 1. Five new foreign exchange rates sources added (Canada, Latvia, Belarus, Kazakhstan and Israel)
 2. URALSIB bank SMS import error fixed
 
 Version 2.6.0
--------------------
+---------------------------
 
 1. Filter improved, option to select multiple items (categories, projects, etc. ..) added
 2. Initial SMS import error fixed
 3. Bugs fixed
 
 Version 2.5.5
--------------------
+---------------------------
 
 1. Detection  SMS error fixed
 2. Fixed display of the number of days of the planning horizon
 
 Version  2.5.4
--------------------
+---------------------------
 
 1. Added ability to set key phrases for failed transactions. At coincidence phrases SMS of the mobile banking will be ignored.
 2. Fixed the bug of choice period.
@@ -1972,19 +1972,19 @@ Version  2.5.4
 5. Bugs fixed.
 
 Version 2.5.3
--------------------
+---------------------------
 
 1. Detection of Raiffeisen Bank (Russian department) SMS fixed.
 2. The currency of the new transaction from main window sets from account.
 
 Version 2.5.1
--------------------
+---------------------------
 
 1. Main screen incomes and expenses currency comes from account  (from portfolio previously was).
 2. Portfolio totals bug fixed when portfolio contains different currency accounts.
 
 Version 2.5.0
--------------------
+---------------------------
 
 1. Transactions and directories export to CSV file added
 2. Auto loading foreign exchange rates feature added

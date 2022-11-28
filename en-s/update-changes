@@ -1,6 +1,6 @@
 cp /home/mika/Work/Java/AndroidStudio/BudgetBlitz/app/src/main/res/raw/changes ./source/
 
-perl -i -p -e 's/(\d)$/$1\n-------------------/g' ./source/changes
+perl -i -p -e 's/(\d)$/$1\n---------------------------/g' ./source/changes
 
 cp changes.rst ./source/changes-origin.rst
 
