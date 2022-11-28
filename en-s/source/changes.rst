@@ -9,6 +9,11 @@
 Changes history
 ===============
 
+Version 9.0.1b1, 2022-11-21
+-------------------
+
+1. Updated SDK target version to 32.
+
 Version 8.9.6
 -------------------
 
