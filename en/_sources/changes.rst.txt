@@ -9,12 +9,13 @@
 Changes history
 ===============
 
-Version 9.0.1b9, 2022-12-05
+Version 9.0.1, 2022-12-22
 ---------------------------
 
 1. Updated SDK target version to 32.
 2. Replaced app packages selection for intents API and push notifications with manual edit mode in order to permit Google Play policy.
-3. Fixed bugs in Free and Pro versions.
+3. Removed Accessibility Service access for Free versioan in order to permit Google Play policy.
+4. Fixed bugs in Free and Pro versions.
 
 Version 8.9.6
 ---------------------------
