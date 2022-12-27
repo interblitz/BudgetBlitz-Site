@@ -9,6 +9,13 @@
 Changes history
 ===============
 
+Version 9.0.2b2, 2022-12-27
+---------------------------
+
+1. Some design improvements.
+2. App widgets improved. Added resizing and amount rounding.
+3. Fixed bugs in Free and Pro versions.
+
 Version 9.0.1, 2022-12-22
 ---------------------------
 
