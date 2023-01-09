@@ -9,12 +9,14 @@
 Changes history
 ===============
 
-Version 9.0.2b2, 2022-12-27
+Version 9.0.2b6, 2023-01-09
 ---------------------------
 
 1. Some design improvements.
 2. App widgets improved. Added resizing and amount rounding.
-3. Fixed bugs in Free and Pro versions.
+3. Added Days with transactions mode to charts and Totals reports.
+4. Added totals on recurrent transactions.
+5. Fixed bugs in Free and Pro versions.
 
 Version 9.0.1, 2022-12-22
 ---------------------------
