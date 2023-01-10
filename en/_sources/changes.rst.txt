@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 9.0.2b6, 2023-01-09
+Version 9.0.2, 2023-01-10
 ---------------------------
 
 1. Some design improvements.
