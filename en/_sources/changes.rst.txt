@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 9.1.1b2, 2023-02-04
+---------------------------
+
+1. Improved account detection for transfers.
+2. Fixed bugs in Free and Pro versions.
+
 Version 9.0.2, 2023-01-10
 ---------------------------
 
