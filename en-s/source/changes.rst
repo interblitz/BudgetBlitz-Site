@@ -9,11 +9,14 @@
 Changes history
 ===============
 
-Version 9.1.1b2, 2023-02-04
+Version 9.1.1, 2023-02-11
 ---------------------------
 
 1. Improved account detection for transfers.
-2. Fixed bugs in Free and Pro versions.
+2. Date and amount displayed when selecting note for transaction.
+3. Added association with CSV files to import transactions from other applications, such as file managers.
+4. CSV import improvements.
+5. Fixed bugs in Free and Pro versions.
 
 Version 9.0.2, 2023-01-10
 ---------------------------
