@@ -9,6 +9,11 @@
 Changes history
 ===============
 
+Version 9.1.2b1, 2023-03-06
+---------------------------
+
+1. Fixed bugs in Free and Pro versions.
+
 Version 9.1.1, 2023-02-11
 ---------------------------
 
