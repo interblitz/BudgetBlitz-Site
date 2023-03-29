@@ -9,7 +9,13 @@
 Changes history
 ===============
 
-Version 9.1.2b1, 2023-03-06
+Version 9.1.3b1, 2023-03-28
+---------------------------
+
+1. Added balances into accounts list.
+2. Fixed bugs in Free and Pro versions.
+
+Version 9.1.2, 2023-03-16
 ---------------------------
 
 1. Fixed bugs in Free and Pro versions.
