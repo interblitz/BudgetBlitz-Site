@@ -16,6 +16,10 @@
 
 .. put_var:: |var_bstore_name| BStore
 
+.. put_var:: |var_buy_pro_version_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=en
+.. put_var:: |var_buy_pro_version_url_test| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru&debug=1
+
+
 .. substitutions
 
 .. |free_version_link| vars_replace:: |var_free_version_name|
