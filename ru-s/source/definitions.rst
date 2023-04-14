@@ -8,6 +8,7 @@
 
 .. put_var:: |var_free_version_name| Community
 .. put_var:: |var_free_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetfree&hl=en
+.. put_var:: |var_free_version_local_url| update-free.html
 
 .. put_var:: |var_paid_version_name| Pro
 .. put_var:: |var_paid_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en

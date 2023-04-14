@@ -45,11 +45,11 @@
 	
     Версия Community
 
-    .. vars_button-link:: |var_free_version_url|
+    .. vars_button-link:: |var_free_version_local_url|
         :color: primary
         :outline:
 
-        Скачать на Google Play
+        Скачать через BStore
 
 Ключевые особенности
 --------------------
