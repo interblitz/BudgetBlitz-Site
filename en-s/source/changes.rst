@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 9.1.3b7, 2023-01-05
+Version 9.1.3, 2023-05-10
 ---------------------------
 
 1. Added balances into accounts list.
