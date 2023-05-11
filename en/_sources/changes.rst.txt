@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 9.1.4b1, 2023-05-11
+---------------------------
+
+1. Added new receipt format support.
+2. Fixed bugs in Free and Pro versions.
+
 Version 9.1.3, 2023-05-10
 ---------------------------
 
