@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 9.1.4b1, 2023-05-11
+Version 9.1.4, 2023-05-11
 ---------------------------
 
 1. Added new receipt format support.
