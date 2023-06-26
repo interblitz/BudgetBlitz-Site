@@ -9,15 +9,16 @@
 Changes history
 ===============
 
-Version 10.0.1b8, 2023-06-18
+Version 10.0.1b9, 2023-06-26
 ---------------------------
 
 1. Added sorting order for accounts, portfolios and types of portfolios.
 2. Context and common options moved to bottom sheet menu.
 3. Added common data import dialog for loading CSV, OFX, push or sms notifications and backups from third party apps using Share option.
 4. Improved Turnovers report.
-5. Added many minor improvements.
-6. Fixed bugs in Free and Pro versions.
+5. Filters extended.
+6. Added many minor improvements.
+7. Fixed bugs in Free and Pro versions.
 
 Version 9.1.4, 2023-05-11
 ---------------------------
