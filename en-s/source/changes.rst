@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.0.1b21, 2023-08-03
+Version 10.0.1b22, 2023-08-05
 ---------------------------
 
 1. Added sorting order for accounts, portfolios and types of portfolios.
