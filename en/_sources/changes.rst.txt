@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 10.1.1b1, 2023-08-23
+---------------------------
+
+1. Updated SDK target version to 33.
+2. Fixed bugs in Free and Pro versions.
+
 Version 10.0.1, 2023-08-07
 ---------------------------
 
