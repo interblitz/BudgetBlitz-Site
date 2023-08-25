@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.1.1b1, 2023-08-23
+Version 10.1.1, 2023-08-24
 ---------------------------
 
 1. Updated SDK target version to 33.
