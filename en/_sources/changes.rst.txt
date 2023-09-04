@@ -9,12 +9,12 @@
 Changes history
 ===============
 
-Version 10.2.1b1, 2023-08-28
+Version 10.2.1b2, 2023-09-04
 ---------------------------
 
 1. The order of account selection has been changed. The last used account is selected for transaction. Previously, the most frequently used account was selected. You can change the preferred order in the settings.
 2. Added ofd.ru receipts import by url.
-3. Заменен пункт меню для выделенных элементов Найти и заменить на Найти и Найти и заменить.
+3. Replaced Find and Replace menu item for selected items with Find and Find and Replace ones.
 4. Improved account selection for import from notifications.
 5. For notifications about foreign transactions without balance added rate calculation if notifications contains domestic amount.
 6. Fixed bugs in Free and Pro versions.
