@@ -20,7 +20,7 @@
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/basic.css" />
     <link rel="stylesheet" type="text/css" href="_static/customstyle.css" />
-    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinxcontrib-images/LightBox2/lightbox2/dist/css/lightbox.css" />
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -177,7 +177,7 @@
 <h1>Блиц Бюджет for Android - учет и планирование финансов<a class="headerlink" href="#for-android" title="Permalink to this heading">¶</a></h1>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row sd-row-cols-3 sd-row-cols-xs-3 sd-row-cols-sm-3 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-0 sd-g-xs-0 sd-g-sm-0 sd-g-md-0 sd-g-lg-0 docutils">
-<div class="sd-col sd-d-flex-column docutils">
+<div class="sd-col sd-d-flex-column sd-align-major-center docutils">
 <a class="reference internal image-reference" href="_images/icon-512.png"><img alt="_images/icon-512.png" src="_images/icon-512.png" style="width: 256px;" /></a>
 </div>
 <div class="sd-col sd-d-flex-column sd-align-major-center docutils">
@@ -187,13 +187,28 @@
 <p><svg version="4.0.0.63c5cb3" width="2.0em" height="2.0em" class="sd-material-icon sd-material-icon-home sd-text-secondary" viewBox="0 0 24 24" aria-hidden="true"><path d="M0 0h24v24H0z" fill="none"></path><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path></svg> продвинутых домашних пользователей</p>
 </div>
 <div class="sd-col sd-d-flex-column sd-align-major-center docutils">
+<div class="sd-tab-set docutils">
+<input checked="checked" id="sd-tab-item-0" name="sd-tab-set-0" type="radio">
+</input><label class="sd-tab-label" for="sd-tab-item-0">
+BSTORE</label><div class="sd-tab-content docutils">
 <p>Версия Pro</p>
 <p><a class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-primary reference external" href="https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&amp;locale=ru"><span>Купить за [price] ₽</span></a></p>
 <p><span class="strikethrough">[normalPrice]</span> ₽ <span class="sd-sphinx-override sd-badge sd-bg-danger sd-bg-text-danger">-[discount]%</span> <span class="sd-sphinx-override sd-badge sd-bg-success sd-bg-text-success">по [endPeriod]</span></p>
 <p><span class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary">Временно недоступно</span> <span class="sd-sphinx-override sd-badge sd-bg-secondary sd-bg-text-secondary">[errorCode]</span></p>
-<p><a class="reference internal" href="update-pro.html#update-pro"><span class="std std-ref">Загрузка и обновление через BStore</span></a></p>
 <p>Версия Community</p>
-<p><a class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-outline-primary reference external" href="update-free.html"><span>Скачать через BStore</span></a></p>
+<p><a class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-outline-primary reference external" href="update-free.html"><span>Скачать</span></a></p>
+<p><a class="reference internal" href="update-pro.html#update-pro"><span class="std std-ref">Загрузка и обновление через BStore</span></a></p>
+</div>
+<input id="sd-tab-item-1" name="sd-tab-set-0" type="radio">
+</input><label class="sd-tab-label" for="sd-tab-item-1">
+GOOGLE PLAY</label><div class="sd-tab-content docutils">
+<p>Версия Pro</p>
+<p><a class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-primary reference external" href="https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro"><span>Купить</span></a></p>
+<p>Версия Community</p>
+<p><a class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-outline-primary reference external" href="https://play.google.com/store/apps/details?id=biz.interblitz.budgetfree"><span>Скачать</span></a></p>
+<p>Использование Google Play в РФ ограничено</p>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -659,8 +674,16 @@
                      height="auto"
                      alt=""/>
                 </a></section>
-<section id="id3">
-<h2>Отличия между версиями<a class="headerlink" href="#id3" title="Permalink to this heading">¶</a></h2>
+<section id="bstore-google-play">
+<h2>Отличия между версиями BStore и Google Play<a class="headerlink" href="#bstore-google-play" title="Permalink to this heading">¶</a></h2>
+<p>Версии приложения для Google Play и BStore отличаются:</p>
+<ol class="arabic simple">
+<li><p>Google Play не разрешает получать список установленных пакетов. Поэтому, чтобы ограничить список источников push-уведомлений или выбрать получателя событий API, необходимо указать список пакетов вручную. В версии для BStore пакеты можно выбрать из списка.</p></li>
+<li><p>Google Play не разрешает использовать специальные возможности (Accessibility service). Поэтому для чтения уведомлений доступен только один способ через доступ к уведомлениям. В версии для BStore для чтения уведомлений доступно два способа, специальные возможности и доступ к уведомлениям.</p></li>
+</ol>
+</section>
+<section id="community-pro">
+<h2>Отличия между версиями Community и Pro<a class="headerlink" href="#community-pro" title="Permalink to this heading">¶</a></h2>
 <table class="longtable docutils align-default">
 <colgroup>
 <col style="width: 71.4%" />
@@ -765,7 +788,8 @@
 <li><a class="reference internal" href="#">Блиц Бюджет for Android - учет и планирование финансов</a><ul>
 <li><a class="reference internal" href="#id1">Ключевые особенности</a></li>
 <li><a class="reference internal" href="#id2">Скриншоты</a></li>
-<li><a class="reference internal" href="#id3">Отличия между версиями</a></li>
+<li><a class="reference internal" href="#bstore-google-play">Отличия между версиями BStore и Google Play</a></li>
+<li><a class="reference internal" href="#community-pro">Отличия между версиями Community и Pro</a></li>
 </ul>
 </li>
 </ul>

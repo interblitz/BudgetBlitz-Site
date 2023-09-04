@@ -7,11 +7,11 @@
 .. vars
 
 .. put_var:: |var_free_version_name| Community
-.. put_var:: |var_free_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetfree&hl=en
+.. put_var:: |var_free_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetfree
 .. put_var:: |var_free_version_local_url| update-free.html
 
 .. put_var:: |var_paid_version_name| Pro
-.. put_var:: |var_paid_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en
+.. put_var:: |var_paid_version_url| https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro
 .. put_var:: |var_paid_version_store| `Перейти к магазин <https://play.google.com/store/apps/details?id=biz.interblitz.budgetpro&hl=en>`_
 .. put_var:: |var_paid_version_bstore| `[price] руб. <https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru>`_
 
@@ -20,6 +20,11 @@
 .. put_var:: |var_buy_pro_version_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru
 .. put_var:: |var_buy_pro_version_url_test| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru&debug=1
 
+.. put_var:: |var_buy_support_100_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.100&locale=ru
+.. put_var:: |var_buy_support_200_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.200&locale=ru
+.. put_var:: |var_buy_support_300_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.300&locale=ru
+.. put_var:: |var_buy_support_500_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.500&locale=ru
+.. put_var:: |var_buy_support_1000_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.1000&locale=ru
 
 .. substitutions
 
