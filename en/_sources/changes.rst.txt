@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.2.1b3, 2023-09-18
+Version 10.2.1b4, 2023-09-19
 ---------------------------
 
 1. The order of account selection has been changed. The last used account is selected for transaction. Previously, the most frequently used account was selected. You can change the preferred order in the settings.
