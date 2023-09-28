@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.2.1b7, 2023-09-26
+Version 10.2.1b8, 2023-09-28
 ---------------------------
 
 1. The order of account selection has been changed. The last used account is selected for transaction. Previously, the most frequently used account was selected. You can change the preferred order in the settings.
@@ -17,7 +17,7 @@ Version 10.2.1b7, 2023-09-26
 3. Replaced Find and Replace menu item for selected items with Find and Find and Replace ones.
 4. Improved account selection for import from notifications.
 5. For notifications about foreign transactions without balance added rate calculation if notifications contains domestic amount.
-6. Renewed transactions import from CSV, added groups import.
+6. Renewed transactions import from CSV, added groups import, added transfer auto detection.
 7. Renewed CSV export, added groups export.
 8. Added option to import standard categories from directory.
 9. Fixed bugs in Free and Pro versions.
