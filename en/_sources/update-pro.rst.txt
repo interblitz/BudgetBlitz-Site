@@ -1,14 +1,19 @@
 .. include:: definitions.rst
 .. _update_pro:
 
-Download and update without Google Play
-=======================================
+Download and update via BStore
+==============================
+
+What is BStore
+----------------
+
+BStore - is special app to install, update and check automatically new updates for all versions of |app_name|. It is simple analogue of the Google Play for |app_name|.
 
 Actions for update
 ------------------
 
 #. Allow applications from unknown sources to be installed on your device.
-#. Download and install the |bstore_link|_ app. Google Play security will alert you to an unknown app. This is ok.
+#. Download and install the |bstore_link|_ app. Google Play security will alert you about an unknown app. This is ok.
 #. Run |bstore_link| and go to settings.
 #. In the settings, specify your Google Play account and order number. If you have a promo code, enter the promo code instead of the order. After entering the order number, press OK and be sure to wait until the order number appears on the screen. If the order number is not displayed, it is not valid. You cannot receive an upgrade with that order number.
 #. Go back to the main screen and update |app_name| to the current stable or beta version.

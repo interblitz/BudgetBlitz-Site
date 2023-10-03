@@ -30,26 +30,49 @@ Budget Blitz for Android - money tracking and planning
   .. grid-item::
     :child-align: center
 
-    Pro version
-    
-    .. vars_button-link:: |var_buy_pro_version_url|
-        :color: primary
+    .. tab-set::
 
-        Buy for [price] |rur|
+        .. tab-item:: BSTORE
 
-    :strikethrough:`[normalPrice]` |rur| :bdg-danger:`-[discount]%` :bdg-success:`till [endPeriod]`
-    
-    :bdg-secondary:`Temporarily unavailable` :bdg-secondary:`[errorCode]`
+            Pro Version
 
-    :ref:`update_pro`
+            .. vars_button-link:: |var_buy_pro_version_url|
+                :color: primary
 
-    Community version
+                Buy for [price] |rur|
 
-    .. vars_button-link:: |var_free_version_url|
-        :color: primary
-        :outline:
+            :strikethrough:`[normalPrice]` |rur| :bdg-danger:`-[discount]%` :bdg-success:`по [endPeriod]`
 
-        Get on Google Play
+            :bdg-secondary:`Временно недоступно` :bdg-secondary:`[errorCode]`
+
+            Community Version
+
+            .. vars_button-link:: |var_free_version_local_url|
+                :color: primary
+                :outline:
+
+                Download
+
+            :ref:`update_pro`
+
+        .. tab-item:: GOOGLE PLAY
+
+            Pro Version
+
+            .. vars_button-link:: |var_paid_version_url|
+                :color: primary
+
+                Buy
+
+            Community Version
+
+            .. vars_button-link:: |var_free_version_url|
+                :color: primary
+                :outline:
+
+                Download
+
+            Google Play restricted in Russia
 
 Key features
 ------------
