@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.2.3, 2023-12-09
+Version 10.2.4, 2023-12-09
 ---------------------------
 
 1. Fixed bugs in CSV import.
