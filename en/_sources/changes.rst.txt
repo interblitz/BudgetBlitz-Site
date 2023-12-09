@@ -9,6 +9,14 @@
 Changes history
 ===============
 
+Version 10.2.3, 2023-12-09
+---------------------------
+
+1. Fixed bugs in CSV import.
+2. Fixed bugs in receipts import.
+3. Updated currency rates loaders.
+4. Fixed bugs in Free and Pro versions.
+
 Version 10.2.2, 2023-11-10
 ---------------------------
 
