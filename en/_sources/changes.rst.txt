@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 10.2.6, 2024-01-08
+---------------------------
+
+1. Added text receipts import.
+2. Fixed bugs in Free and Pro versions.
+
 Version 10.2.5, 2024-01-02
 ---------------------------
 
