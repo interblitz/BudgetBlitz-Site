@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.3.1b2, 2024-01-27
+Version 10.3.1, 2024-02-01
 ---------------------------
 
 1. Added closing date to accounts. The account will be exclude from reports starting this date.
