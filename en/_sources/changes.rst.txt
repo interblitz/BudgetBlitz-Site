@@ -9,6 +9,13 @@
 Changes history
 ===============
 
+Version 10.3.2b1, 2024-02-21
+---------------------------
+
+1. Added EagleDoc OCR (https://www.eagle-doc.com/) receipts support
+2. Added filter Account closed before report start
+3. Fixed bugs in Free and Pro versions.
+
 Version 10.3.1, 2024-02-01
 ---------------------------
 
