@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.3.2b2, 2024-02-26
+Version 10.3.2, 2024-03-06
 ---------------------------
 
 1. Added EagleDoc OCR (https://www.eagle-doc.com/) receipts support
