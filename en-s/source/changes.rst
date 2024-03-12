@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.3.3b1, 2024-03-11
+Version 10.3.3b2, 2024-03-12
 ---------------------------
 
 1. Added Revenues minus Expenses filter for Turnovers reports.
