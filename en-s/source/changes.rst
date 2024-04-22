@@ -9,6 +9,11 @@
 Changes history
 ===============
 
+Version 10.3.4b1, 2024-04-22
+---------------------------
+
+1. Fixed bugs in Free and Pro versions.
+
 Version 10.3.3, 2024-03-15
 ---------------------------
 
