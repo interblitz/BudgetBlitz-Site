@@ -58,6 +58,43 @@
 
     1000 |rur|
 
+  .. grid-item::
+   :child-align: center
+
+   .. vars_button-link:: |var_buy_support_2000_url|
+    :color: primary
+    :outline:
+
+    2000 |rur|
+
+  .. grid-item::
+   :child-align: center
+
+   .. vars_button-link:: |var_buy_support_3000_url|
+    :color: primary
+    :outline:
+
+    3000 |rur|
+
+  .. grid-item::
+   :child-align: center
+
+   .. vars_button-link:: |var_buy_support_4000_url|
+    :color: primary
+    :outline:
+
+    4000 |rur|
+
+  .. grid-item::
+   :child-align: center
+
+   .. vars_button-link:: |var_buy_support_5000_url|
+    :color: primary
+    :outline:
+
+    5000 |rur|
+    
+
 Или поддержите разработку одним из предложенных способов:
 
 * Купите версию |paid_version_link|_.

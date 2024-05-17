@@ -25,6 +25,10 @@
 .. put_var:: |var_buy_support_300_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.300&locale=ru
 .. put_var:: |var_buy_support_500_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.500&locale=ru
 .. put_var:: |var_buy_support_1000_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.1000&locale=ru
+.. put_var:: |var_buy_support_2000_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.2000&locale=ru
+.. put_var:: |var_buy_support_3000_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.3000&locale=ru
+.. put_var:: |var_buy_support_4000_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.4000&locale=ru
+.. put_var:: |var_buy_support_5000_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetblitz.support.5000&locale=ru
 
 .. substitutions
 
