@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 10.3.5b2, 2024-06-10
+Version 10.3.5b3, 2024-06-10
 ---------------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Fixed filters mistaken copy when new tab copied.
+2. Fixed bugs in Free and Pro versions.
 
 Version 10.3.4, 2024-05-23
 ---------------------------
