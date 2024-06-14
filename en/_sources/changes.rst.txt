@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 10.3.5b3, 2024-06-10
+Version 10.3.5, 2024-06-10
 ---------------------------
 
 1. Fixed filters mistaken copy when new tab copied.
