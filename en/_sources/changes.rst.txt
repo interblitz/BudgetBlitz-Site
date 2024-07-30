@@ -9,10 +9,18 @@
 Changes history
 ===============
 
-Version 10.3.7, 2024-07-30
----------------------------
+Version 11.0.1b2, 30.07.2024.
 
-1. Fixed bugs in Free and Pro versions.
+1. Target SDK version has been updated to version 34.
+2. Minimum supported version is Android 6.0 (API level 23).
+3. Design and color palette updated to Material Design 3.
+4. Added selection of theme color tint, text colors for income and expenses.
+5. Added settings for selecting the order and visibility of output fields for the list of transactions and permanent transactions.
+6. Labels are used instead of color to display non-standard list items (planned, excluded operations, etc.).
+7. Increased the number of available icons due to Google Icons Font support.
+8. Updated widgets, expanded settings, widgets can have their own data source and theme.
+9. Increased the speed of the app.
+10. Fixed bugs in Free and Pro versions.
 
 Version 10.3.6, 2024-07-29
 ---------------------------

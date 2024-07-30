@@ -1,4 +1,4 @@
-cp /home/mika/Work/Java/AndroidStudio/BudgetBlitz/app/src/main/res/raw/changes ./source/
+cp /home/mika/Work/Java/AndroidStudio/BudgetBlitz.M3/app/src/main/res/raw/changes ./source/
 
 perl -i -p -e 's/(\d)$/$1\n---------------------------/g' ./source/changes
 
