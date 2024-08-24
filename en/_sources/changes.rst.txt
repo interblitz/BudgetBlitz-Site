@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.0.1b10, 14.08.2024.
+Version 11.0.1b11, 24.08.2024.
 
 1. Target SDK version has been updated to version 34.
 2. Minimum supported version is Android 6.0 (API level 23).
