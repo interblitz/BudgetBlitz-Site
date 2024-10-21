@@ -9,12 +9,13 @@
 Changes history
 ===============
 
-Version 11.1.1b1, 2024-10-17
+Version 11.1.1b2, 2024-10-17
 ---------------------------
 
 1. Added set of receipts import. Set detected automatically.
 2. Increased indentation when displaying hierarchy.
-3. Fixed bugs in Free and Pro versions.
+3. Accounts list updated.
+4. Fixed bugs in Free and Pro versions.
 
 Version 11.0.2, 2024-09-05
 ---------------------------
