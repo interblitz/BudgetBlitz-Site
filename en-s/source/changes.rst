@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.1.1b2, 2024-10-17
+Version 11.1.1, 2024-10-24
 ---------------------------
 
 1. Added set of receipts import. Set detected automatically.
