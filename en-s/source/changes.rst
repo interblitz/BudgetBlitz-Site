@@ -9,6 +9,13 @@
 Changes history
 ===============
 
+Version 11.2.1, 2024-11-06
+---------------------------
+
+1. Added Kazakhstan (OFD Kazakhtelecom) receipts support.
+2. Improved CSV and TXT files import.
+3. Fixed bugs in Free and Pro versions.
+
 Version 11.1.2, 2024-10-28
 ---------------------------
 
