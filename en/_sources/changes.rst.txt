@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 11.2.2b2, 2024-11-11
+Version 11.2.2b2, 2024-11-19
 ---------------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Added standard menu the object editor activity.
+2. Fixed bugs in Free and Pro versions.
 
 Version 11.2.1, 2024-11-06
 ---------------------------
