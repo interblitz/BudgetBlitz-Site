@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.2.2b2, 2024-11-19
+Version 11.2.2, 2024-11-19
 ---------------------------
 
 1. Added standard menu the object editor activity.
