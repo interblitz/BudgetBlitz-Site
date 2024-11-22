@@ -9,6 +9,11 @@
 Changes history
 ===============
 
+Version 11.3.1b1, 2024-11-22
+---------------------------
+
+1. Fixed bugs in Free and Pro versions.
+
 Version 11.2.2, 2024-11-19
 ---------------------------
 
