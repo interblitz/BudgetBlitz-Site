@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 11.3.1b1, 2024-11-22
+Version 11.3.1b2, 2024-11-25
 ---------------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Added Follow System for theme settings.
+2. Fixed bugs in Free and Pro versions.
 
 Version 11.2.2, 2024-11-19
 ---------------------------
