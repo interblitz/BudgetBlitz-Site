@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.3.1b2, 2024-11-25
+Version 11.3.1, 2024-11-28
 ---------------------------
 
 1. Added Follow System for theme settings.
