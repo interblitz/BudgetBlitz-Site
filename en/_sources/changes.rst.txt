@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 11.3.2b1, 2024-12-02
+Version 11.3.2b2, 2024-12-04
 ---------------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Added Undo in the calculator
+2. Fixed bugs in Free and Pro versions.
 
 Version 11.3.1, 2024-11-28
 ---------------------------
