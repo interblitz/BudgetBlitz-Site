@@ -9,6 +9,13 @@
 Changes history
 ===============
 
+Version 11.3.2b3, 2024-12-16
+---------------------------
+
+1. Added Undo in the calculator
+2. Added groups checking.
+3. Fixed bugs in Free and Pro versions.
+
 Version 11.3.2b2, 2024-12-04
 ---------------------------
 
