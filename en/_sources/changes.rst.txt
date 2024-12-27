@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.4.1b1, 2024-12-26
+Version 11.4.1b2, 2024-12-27
 ---------------------------
 
 1. Added Undo in the calculator
