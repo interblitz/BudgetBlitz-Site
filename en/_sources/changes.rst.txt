@@ -9,14 +9,15 @@
 Changes history
 ===============
 
-Version 11.4.1b2, 2024-12-27
+Version 11.4.1b3, 2024-12-28
 ---------------------------
 
 1. Added Undo in the calculator
 2. Added groups checking.
 3. Added multiplicity and rounding for reports.
 4. Added plan start calculation option for reports.
-5. Fixed bugs in Free and Pro versions.
+5. Changed text alignment in Summary.
+6. Fixed bugs in Free and Pro versions.
 
 Version 11.3.1, 2024-11-28
 ---------------------------
