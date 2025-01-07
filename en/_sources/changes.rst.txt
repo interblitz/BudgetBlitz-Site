@@ -9,6 +9,14 @@
 Changes history
 ===============
 
+Version 11.5.1b1, 2025-01-07
+---------------------------
+
+1. Added details report view to the charts.
+2. Changed icon for Planned totals and turnovers report.
+3. Added auto icons color depending on background color in lists.
+4. Fixed bugs in Free and Pro versions.
+
 Version 11.4.2, 2025-01-04
 ---------------------------
 
