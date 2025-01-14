@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.5.1b4, 2025-01-13
+Version 11.5.1, 2025-01-14
 ---------------------------
 
 1. Added details report view to the charts.
