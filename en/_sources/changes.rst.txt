@@ -9,6 +9,13 @@
 Changes history
 ===============
 
+Version 11.5.4b1, 2025-02-25
+---------------------------
+
+1. Added for CSV import automatic initial balance transaction.
+2. Improved transfer detection for CSV import.
+3. Fixed bugs in Free and Pro versions.
+
 Version 11.5.3, 2025-02-19
 ---------------------------
 
