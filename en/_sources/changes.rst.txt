@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.5.4b3, 2025-03-01
+Version 11.5.4b4, 2025-03-02
 ---------------------------
 
 1. Added automatic initial balance transaction for CSV import.
