@@ -9,13 +9,14 @@
 Changes history
 ===============
 
-Version 11.5.4b5, 2025-03-12
+Version 11.5.4b6, 2025-03-13
 ---------------------------
 
 1. Added automatic initial balance transaction for CSV import.
 2. Improved transfer detection for CSV import.
-3. Added foreign exchange support for CSV import. For anMoney files currency must be specified in accounts before import.
-4. Fixed bugs in Free and Pro versions.
+3. Added option to select category for tranfer for CSV import.
+4. Added foreign exchange support for CSV import. For anMoney files currency must be specified in accounts before import.
+5. Fixed bugs in Free and Pro versions.
 
 Version 11.5.3, 2025-02-19
 ---------------------------
