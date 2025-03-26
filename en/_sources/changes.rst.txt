@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.5.4b10, 2025-03-21
+Version 11.5.4b11, 2025-03-25
 ---------------------------
 
 1. Added dialog to connect transactions.
