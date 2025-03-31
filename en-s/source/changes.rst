@@ -19,7 +19,8 @@ Version 11.5.4b13, 2025-03-28
 5. Added foreign exchange support for CSV import. For anMoney files currency must be specified in accounts before import.
 6. Added Transfer filter in reports and widgets.
 7. Added grouping same items with different currencies in reports.
-8. Fixed bugs in Free and Pro versions.
+8. Removed smooth autoscroll for bottom toolbar, added scroll position preview.
+9. Fixed bugs in Free and Pro versions.
 
 Version 11.5.3, 2025-02-19
 ---------------------------
