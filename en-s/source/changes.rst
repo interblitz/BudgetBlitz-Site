@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 11.7.1b2, 2025-04-29
+Version 11.7.1b3, 2025-05-01
 ---------------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Added automatic connection for transaction with different currencies for notifications import.
+2. Fixed bugs in Free and Pro versions.
 
 Version 11.6.1, 2025-04-02
 ---------------------------
