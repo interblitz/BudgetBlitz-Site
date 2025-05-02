@@ -9,11 +9,12 @@
 Changes history
 ===============
 
-Version 11.7.1b3, 2025-05-01
+Version 11.7.1b4, 2025-05-02
 ---------------------------
 
 1. Added automatic connection for transaction with different currencies for notifications import.
-2. Fixed bugs in Free and Pro versions.
+2. Added support for receipts from Wildberries (wb.ru) that available from personal account.
+3. Fixed bugs in Free and Pro versions.
 
 Version 11.6.1, 2025-04-02
 ---------------------------
