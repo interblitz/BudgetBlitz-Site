@@ -9,14 +9,15 @@
 Changes history
 ===============
 
-Version 11.7.1b5, 2025-05-08
+Version 11.7.1b6, 2025-05-10
 ---------------------------
 
 1. Added automatic connection for transaction with different currencies for notifications import.
 2. Added group editing of the split.
 3. Added support for receipts from Wildberries (wb.ru) that available from personal account.
 4. Added option to apply a receipt into several operations for receipts from Wildberries.
-5. Fixed bugs in Free and Pro versions.
+5. Added chart Changes in Plan vs Actual.
+6. Fixed bugs in Free and Pro versions.
 
 Version 11.6.1, 2025-04-02
 ---------------------------
