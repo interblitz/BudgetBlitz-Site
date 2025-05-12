@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.7.1b6, 2025-05-10
+Version 11.7.1b7, 2025-05-12
 ---------------------------
 
 1. Added automatic connection for transaction with different currencies for notifications import.
@@ -17,7 +17,8 @@ Version 11.7.1b6, 2025-05-10
 3. Added support for receipts from Wildberries (wb.ru) that available from personal account.
 4. Added option to apply a receipt into several operations for receipts from Wildberries.
 5. Added chart Changes in Plan vs Actual.
-6. Fixed bugs in Free and Pro versions.
+6. Added automatic receipt search at ofd.ru when QR-code from receipt importing.
+7. Fixed bugs in Free and Pro versions.
 
 Version 11.6.1, 2025-04-02
 ---------------------------
