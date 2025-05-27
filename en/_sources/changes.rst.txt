@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.7.1b7, 2025-05-12
+Version 11.7.1, 2025-05-27
 ---------------------------
 
 1. Added automatic connection for transaction with different currencies for notifications import.
