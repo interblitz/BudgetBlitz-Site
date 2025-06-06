@@ -9,10 +9,11 @@
 Changes history
 ===============
 
-Version 11.7.2b1, 2025-06-04
+Version 11.7.2b2, 2025-06-06
 ---------------------------
 
-1. Fixed bugs in Free and Pro versions.
+1. Fixed bag that in some cases breaks bank comission detection in notifications.
+2. Fixed bugs in Free and Pro versions.
 
 Version 11.7.1, 2025-05-27
 ---------------------------
