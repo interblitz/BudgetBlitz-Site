@@ -9,11 +9,12 @@
 Changes history
 ===============
 
-Version 11.7.2b2, 2025-06-06
+Version 11.7.2b3, 2025-06-09
 ---------------------------
 
-1. Fixed bag that in some cases breaks bank comission detection in notifications.
-2. Fixed bugs in Free and Pro versions.
+1. Added option to backap database to Downloads folder.
+2. Fixed bag that in some cases breaks bank commission detection in notifications.
+3. Fixed bugs in Free and Pro versions.
 
 Version 11.7.1, 2025-05-27
 ---------------------------
