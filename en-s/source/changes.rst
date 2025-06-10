@@ -12,9 +12,10 @@ Changes history
 Version 11.7.2b3, 2025-06-09
 ---------------------------
 
-1. Added option to backap database to Downloads folder.
-2. Fixed bag that in some cases breaks bank commission detection in notifications.
-3. Fixed bugs in Free and Pro versions.
+1. Added option to backup database to Downloads folder.
+2. Added option to backup automatically database to Downloads folder.
+3. Fixed bag that in some cases breaks bank commission detection in notifications.
+4. Fixed bugs in Free and Pro versions.
 
 Version 11.7.1, 2025-05-27
 ---------------------------
