@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.7.2b3, 2025-06-09
+Version 11.7.2b4, 2025-06-10
 ---------------------------
 
 1. Added option to backup database to Downloads folder.
