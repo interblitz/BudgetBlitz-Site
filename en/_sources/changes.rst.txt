@@ -9,6 +9,15 @@
 Changes history
 ===============
 
+Version 11.7.3b2, 2025-07-09
+---------------------------
+
+1. Added option to select recent and frequently used accounts in the Choose account dialog.
+2. Added sending backups to storage immediately after creating. Previously backups were sending on OS decision.
+3. Added an option to read Jusan Mobile OFD receipts, Kazakhstan. Just scan the QR code on the receipt to read it.
+4. Fixed network connection error when reading OFD checks of Kazakhtelecom.
+5. Fixed bugs in Free and Pro versions.
+
 Version 11.7.2, 2025-06-13
 ---------------------------
 
