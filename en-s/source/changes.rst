@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 11.7.3b2, 2025-07-09
+Version 11.7.3b3, 2025-07-11
 ---------------------------
 
 1. Added option to select recent and frequently used accounts in the Choose account dialog.
