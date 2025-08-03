@@ -9,15 +9,16 @@
 Changes history
 ===============
 
-Version 11.7.3b9, 2025-08-01
+Version 11.8.1, 2025-08-03
 ---------------------------
 
 1. Added option to select recent and frequently used accounts in the Choose account dialog.
 2. Added sending backups to storage immediately after creating. Previously backups were sending on OS decision.
 3. Added an option to read Jusan Mobile OFD receipts, Kazakhstan. Just scan the QR code on the receipt to read it.
-4. Added Name and Group fields to custom report sorting options.
-5. Fixed network connection error when reading OFD checks of Kazakhtelecom.
-6. Fixed bugs in Free and Pro versions.
+4. Added an option to read tax.salyk.kg receipts, Kyrgyzstan. Just scan the QR code on the receipt to read it.
+5. Added Name and Group fields to custom report sorting options.
+6. Fixed network connection error when reading OFD checks of Kazakhtelecom.
+7. Fixed bugs in Free and Pro versions.
 
 Version 11.7.2, 2025-06-13
 ---------------------------
