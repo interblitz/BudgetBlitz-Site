@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.0.1b1, 2024-08-25
+Version 12.0.1b2, 2024-08-25
 ---------------------------
 
 1. Target SDK version has been updated to version 34.
