@@ -9,10 +9,10 @@
 Changes history
 ===============
 
-Version 12.0.1b4, 2024-09-02
+Version 12.0.1b5, 2025-09-10
 ---------------------------
 
-1. Target SDK version has been updated to version 34.
+1. Target SDK version has been updated to version 35.
 2. Dropbox library updated.
 3. Updated settings structure.
 4. Added option to change the amount indicator in the list of transactions.
