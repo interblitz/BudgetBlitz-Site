@@ -9,15 +9,16 @@
 Changes history
 ===============
 
-Version 12.0.1b5, 2025-09-10
+Version 12.0.1b6, 2025-09-15
 ---------------------------
 
 1. Target SDK version has been updated to version 35.
 2. Dropbox library updated.
-3. Updated settings structure.
-4. Added option to change the amount indicator in the list of transactions.
-5. Added transfers account filter in the list of transactions.
-6. Fixed bugs in Free and Pro versions.
+3. Summary report updated.
+4. Updated settings structure.
+5. Added option to change the amount indicator visibility in the list of transactions.
+6. Added transfers account filter in the list of transactions.
+7. Fixed bugs in Free and Pro versions.
 
 Version 11.8.3, 2025-08-21
 ---------------------------
