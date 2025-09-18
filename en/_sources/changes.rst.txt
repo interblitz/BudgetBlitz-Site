@@ -9,16 +9,17 @@
 Changes history
 ===============
 
-Version 12.0.1b7, 2025-09-15
+Version 12.0.1b8, 2025-09-18
 ---------------------------
 
 1. Target SDK version has been updated to version 35.
 2. Dropbox library updated.
 3. Summary report updated.
-4. Updated settings structure.
-5. Added option to change the amount indicator visibility in the list of transactions.
-6. Added transfers account filter in the list of transactions.
-7. Fixed bugs in Free and Pro versions.
+4. Added an option to read Smartcontract OFD receipts, Kazakhstan. Just scan the QR code on the receipt to read it.
+5. Updated settings structure.
+6. Added option to change the amount indicator visibility in the list of transactions.
+7. Added transfers account filter in the list of transactions.
+8. Fixed bugs in Free and Pro versions.
 
 Version 11.8.3, 2025-08-21
 ---------------------------
