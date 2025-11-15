@@ -9,6 +9,14 @@
 Changes history
 ===============
 
+Version 12.0.2b1, 2025-11-15
+---------------------------
+
+1. Added key selection from transactions note.
+2. Added auto repair exchange option.
+3. Fixed sorting in th web client.
+4. Fixed bugs in Free and Pro versions.
+
 Version 12.0.1, 2025-10-14
 ---------------------------
 
