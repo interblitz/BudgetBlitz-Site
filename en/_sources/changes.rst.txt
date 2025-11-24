@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.0.2b2, 2025-11-17
+Version 12.0.2, 2025-11-24
 ---------------------------
 
 1. Added key selection from transactions note.
