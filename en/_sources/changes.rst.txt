@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 12.0.3b3, 2025-12-29
+---------------------------
+
+1. Added checked split totals.
+2. Fixed bugs in Free and Pro versions.
+
 Version 12.0.2, 2025-11-24
 ---------------------------
 
