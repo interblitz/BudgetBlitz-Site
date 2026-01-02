@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.0.3b3, 2025-12-31
+Version 12.0.3, 2025-12-31
 ---------------------------
 
 1. Added checked split totals.
