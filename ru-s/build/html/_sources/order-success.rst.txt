@@ -3,6 +3,10 @@
 .. include:: definitions.rst
 .. _order-success:
 
+.. raw:: html
+
+  <script src="_static/orders.js"></script>
+
 Заказ оплачен
 =============
 
@@ -12,8 +16,7 @@
 
     <h3>
       <script type="text/javascript">
-	    urlp=[]; s=location.toString().split('?');s=s[1].split('&');for(i=0;i<s.length;i++){u=s[i].split('=');urlp[u[0]]=u[1];}
-	    document.write(urlp['Shp_orderId'])
+        document.write(hp_orderId)
 	    document.write("<BR/><BR/>")
       </script>
     </h3>

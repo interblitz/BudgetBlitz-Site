@@ -12,6 +12,7 @@
   :gutter: 0
 
   .. grid-item::
+    :child-align: center
 
     .. image:: _images/icon-512.png
       :width: 256
@@ -30,26 +31,49 @@
   .. grid-item::
     :child-align: center
 
-    Версия Pro
-    
-    .. vars_button-link:: |var_buy_pro_version_url|
-        :color: primary
+    .. tab-set::
 
-        Купить за [price] |rur|
+        .. tab-item:: BSTORE
 
-    :strikethrough:`[normalPrice]` |rur| :bdg-danger:`-[discount]%` :bdg-success:`по [endPeriod]`
-    
-    :bdg-secondary:`Временно недоступно` :bdg-secondary:`[errorCode]`
-	
-    :ref:`update_pro`
-	
-    Версия Community
+            Версия Pro
 
-    .. vars_button-link:: |var_free_version_url|
-        :color: primary
-        :outline:
+            .. vars_button-link:: |var_buy_pro_version_url|
+                :color: primary
 
-        Скачать на Google Play
+                Купить за [price] |rur|
+
+            :strikethrough:`[normalPrice]` |rur| :bdg-danger:`-[discount]%` :bdg-success:`по [endPeriod]`
+
+            :bdg-secondary:`Временно недоступно` :bdg-secondary:`[errorCode]`
+
+            Версия Community
+
+            .. vars_button-link:: |var_free_version_local_url|
+                :color: primary
+                :outline:
+
+                Скачать
+
+            :ref:`update_pro`
+
+        .. tab-item:: GOOGLE PLAY
+
+            Версия Pro
+
+            .. vars_button-link:: |var_paid_version_url|
+                :color: primary
+
+                Купить
+
+            Версия Community
+
+            .. vars_button-link:: |var_free_version_url|
+                :color: primary
+                :outline:
+
+                Скачать
+
+            Использование Google Play в РФ ограничено
 
 Ключевые особенности
 --------------------
@@ -93,8 +117,17 @@
 
 .. include:: ScreenshotsDark.rst
 
-Отличия между версиями
-----------------------
+Отличия между версиями BStore и Google Play
+-------------------------------------------
+
+Версии приложения для Google Play и BStore отличаются:
+
+#. Google Play не разрешает получать список установленных пакетов. Поэтому, чтобы ограничить список источников push-уведомлений или выбрать получателя событий API, необходимо указать список пакетов вручную. В версии для BStore пакеты можно выбрать из списка.
+#. Google Play не разрешает использовать специальные возможности (Accessibility service). Поэтому для чтения уведомлений доступен только один способ через доступ к уведомлениям. В версии для BStore для чтения уведомлений доступно два способа, специальные возможности и доступ к уведомлениям.
+
+
+Отличия между версиями Community и Pro
+--------------------------------------
 
 .. vars_list-table::
    :widths: 25 5 5
