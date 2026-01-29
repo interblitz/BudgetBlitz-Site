@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 12.1.1b1, 2026-01-29
+---------------------------
+
+1. Added biometric authentication.
+2. Fixed bugs in Free and Pro versions.
+
 Version 12.0.3, 2026-01-02
 ---------------------------
 
