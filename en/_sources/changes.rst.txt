@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.1.1b2, 2026-02-02
+Version 12.1.1b3, 2026-02-02
 ---------------------------
 
 1. Added biometric authentication.
