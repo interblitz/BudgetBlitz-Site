@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 12.2.1b1, 2026-03-04
+---------------------------
+
+1. Updated currency transaction amounts editor.
+2. Fixed bugs in Free and Pro versions.
+
 Version 12.1.2, 2026-02-27
 ---------------------------
 
