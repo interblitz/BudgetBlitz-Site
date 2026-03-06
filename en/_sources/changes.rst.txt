@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.2.1b1, 2026-03-04
+Version 12.2.1, 2026-03-06
 ---------------------------
 
 1. Updated currency transaction amounts editor.
