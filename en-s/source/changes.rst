@@ -9,6 +9,12 @@
 Changes history
 ===============
 
+Version 12.4.b1, 2026-06-03
+---------------------------
+
+1. Added total percent calculations for selected values fo Turnovers report.
+2. Fixed bugs in Free and Pro versions.
+
 Version 12.3.1, 2026-04-08
 ---------------------------
 
