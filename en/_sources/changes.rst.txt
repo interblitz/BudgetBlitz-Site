@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.4.b1, 2026-06-03
+Version 12.4.1, 2026-07-31
 ---------------------------
 
 1. Added total percent calculations for selected values fo Turnovers report.
