@@ -141,7 +141,7 @@ extensions = ['sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinxcontrib.images',
     'sphinx_design',
-    'sphinx-favicon'
+    'sphinx_favicon'
     ]
 
 templates_path = ['_templates']
