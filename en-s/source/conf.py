@@ -130,7 +130,7 @@ class VarsButtonLinkDirective(ButtonLinkDirective):
 ##############################################################################################3
 
 project = 'Budget Blitz for Android'
-copyright = '2022, Basin Michael'
+copyright = '2013 - 2026, Basin Michael'
 author = 'Basin Michael'
 release = '2.0'
 
@@ -140,6 +140,7 @@ release = '2.0'
 extensions = ['sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinxcontrib.images',
+    'sphinxcontrib.jquery',
     'sphinx_design',
     'sphinx_favicon'
     ]
