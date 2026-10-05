@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.4.2и2, 2026-09-28
+Version 12.4.2b3, 2026-10-05
 ---------------------------
 
 1. Fixed bug in SMS and push import for foreign transfers.
