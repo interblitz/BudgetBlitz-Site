@@ -9,11 +9,12 @@
 Changes history
 ===============
 
-Version 12.4.2b3, 2026-10-05
+Version 12.4.2b4, 2026-10-08
 ---------------------------
 
 1. Fixed bug in SMS and push import for foreign transfers.
-2. Fixed bugs in Free and Pro versions.
+2. Improved notifications import preview. Added special characters preview.
+3. Fixed bugs in Free and Pro versions.
 
 Version 12.4.1, 2026-07-31
 ---------------------------
