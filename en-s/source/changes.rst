@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.4.3b1, 2026-10-26
+Version 12.4.3, 2026-10-28
 ---------------------------
 
 1. Fixed bugs in Free and Pro versions.
