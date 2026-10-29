@@ -12,5 +12,10 @@ Actions for update
 ------------------
 
 #. Allow applications from unknown sources to be installed on your device.
-#. Download and install the |bstore_link|_ app. Google Play security will alert you about an unknown app. This is ok.
+#. Download and install the |bstore_link|_ app or scan QR code. Google Play security will alert you about an unknown app. This is ok.
 #. Run |bstore_link|.
+
+.. vars_qrcode::
+    |var_bstore_url|
+    :alt: |var_bstore_url|
+    :align: center

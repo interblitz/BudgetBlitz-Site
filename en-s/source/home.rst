@@ -72,7 +72,7 @@ Budget Blitz for Android - money tracking and planning
 
                 Download
 
-            Google Play restricted in Russia
+            :bdg-danger-line:`Google Play restricted in Russia`
 
 Key features
 ------------

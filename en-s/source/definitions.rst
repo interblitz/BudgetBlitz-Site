@@ -16,6 +16,7 @@
 .. put_var:: |var_paid_version_bstore| `[price] руб. <https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru>`_
 
 .. put_var:: |var_bstore_name| BStore
+.. put_var:: |var_bstore_url| https://bstore.binartlogic.com:40431/download        
 
 .. put_var:: |var_buy_pro_version_url| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=en
 .. put_var:: |var_buy_pro_version_url_test| https://bstore.my.to:40431/api/v1/app-order-robokassa?appId=biz.interblitz.budgetpro&locale=ru&debug=1
@@ -36,4 +37,4 @@
 .. _translate_link: http://translate.bbmoney.biz/
 
 .. |bstore_link| vars_replace:: |var_bstore_name|
-.. _bstore_link: https://bstore.my.to:40431/download
+.. _bstore_link: https://bstore.binartlogic.com:40431/download

@@ -13,8 +13,14 @@ Actions for update
 ------------------
 
 #. Allow applications from unknown sources to be installed on your device.
-#. Download and install the |bstore_link|_ app. Google Play security will alert you about an unknown app. This is ok.
-#. Run |bstore_link| and go to settings.
+#. Download and install the |bstore_link|_ app or scan QR code. Google Play security will alert you about an unknown app. This is ok.
+
+.. vars_qrcode::
+    |var_bstore_url|
+    :alt: |var_bstore_url|
+    :align: center
+
+3. Run |bstore_link| and go to settings.
 #. In the settings, specify your account and licence number or Google Play order number. If you have a promo code, enter the promo code instead of the Google Play order number. After entering the  number, press OK and be sure to wait until the order number appears on the screen. If the order number is not displayed, it is not valid. You cannot receive an upgrade with that order number.
 #. Go back to the main screen and update |app_name| to the current stable or beta version.
 

@@ -26,6 +26,7 @@ from docutils import nodes
 # sphinx-design extensions
 from sphinx_design.badges_buttons import ButtonLinkDirective
 
+from atsphinx.qrcode import QRodeDirective
 
 class ExecDirective(Directive):
     """Execute the specified python code and insert the output into the document"""
@@ -126,6 +127,23 @@ class VarsButtonLinkDirective(ButtonLinkDirective):
 
         return list(ButtonLinkDirective.run(self))
 
+##############################################################################################3
+
+class VarsQRCodeDirective(QRodeDirective):
+    """qrcode with vars"""
+    has_content = True
+
+    def run(self):
+        app = self.state.document.settings.env.app
+        existing_content = self.content
+        for i in range(0, len(existing_content)):
+            item = existing_content[i]
+            for original, replacement in app.config.vars.items():
+                #original, replacement = pair
+                item = item.replace(original, replacement)
+            self.content[i] = item
+
+        return QRodeDirective.run(self)
 
 ##############################################################################################3
 
@@ -230,6 +248,8 @@ def setup(app):
     app.add_directive('put_var', PutVarDirective)
 
     app.add_directive('vars_button-link', VarsButtonLinkDirective)
+
+    app.add_directive('vars_qrcode', VarsQRCodeDirective)
 
     #import mxtheme
     #app.add_directive('card', mxtheme.CardDirective)
