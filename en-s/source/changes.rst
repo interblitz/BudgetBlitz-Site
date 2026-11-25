@@ -9,7 +9,7 @@
 Changes history
 ===============
 
-Version 12.4.4b1, 2026-11-13
+Version 12.4.4, 2026-11-25
 ---------------------------
 
 1. Fixed bugs in the calculator.
